@@ -1,4 +1,3 @@
-import { Text } from "@/components/text";
 import { events } from "@/data/events";
 import { Metadata } from "next";
 import EventClient from "@/components/_event-client";
