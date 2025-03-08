@@ -575,12 +575,12 @@ export const events = [
                 "alt": "Juniper entry"
               },
               {
-                "src": "/santa-fe/gallery/horse riding.png",
-                "alt": "Horse riding"
+                "src": "/santa-fe/gallery/indoor.png",
+                "alt": "Indoors"
               },
               {
-                "src": "/santa-fe/gallery/santa fe house.png",
-                "alt": "Santa Fe house"
+                "src": "/santa-fe/gallery/windmill.jpg",
+                "alt": "Windmill"
               }
             ]
           }
