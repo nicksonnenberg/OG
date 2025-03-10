@@ -284,7 +284,7 @@ export const events = [
           },
           {
             "type": "text",
-            "value": "Past attendees have said that if they had to pay for all the consulting/advice they got during hte event, it would've been over $250,000.",
+            "value": "Past attendees have said that if they had to pay for all the consulting/advice they got during the event, it would've been over $250,000.",
             "variant": "body",
             "align": "left"
           },
