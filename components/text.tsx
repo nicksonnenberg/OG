@@ -17,7 +17,7 @@ interface TextProps {
 }
 
 const VARIANT_STYLES = {
-  "hero-subheading": "font-open-sans text-center mb-4 text-3xl font-bold tracking-[0.2em] text-brand-yellow w-min md:text-5xl lg:text-6xl",
+  "hero-subheading": "font-open-sans text-center mb-4 text-3xl font-bold tracking-[0.2em] text-brand-yellow md:text-5xl lg:text-6xl",
   "hero-heading": "mb-2 text-[45px] leading-none text-center text-white sm:text-[45px] md:text-[100px] lg:text-[150px]",
   "hero-heading-short": "mb-2 text-[80px] leading-none text-center text-white sm:text-[75px] md:text-[125px] lg:text-[175px]",
   "hero-location": "font-open-sans text-center mb-2 text-2xl font-bold tracking-[0.2em] text-brand-yellow md:text-3xl",

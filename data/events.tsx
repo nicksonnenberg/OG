@@ -976,13 +976,18 @@ export const events = [
       "content": [
         {
           "type": "text",
-          "value": "Mastermind Session",
+          "value": "Invite-Only",
           "variant": "hero-subheading"
         },
         {
           "type": "text",
-          "value": "VIP BUSINESS WORKSHOP",
+          "value": "BUSINESS WORKSHOP",
           "variant": "hero-heading"
+        },
+        {
+          "type": "text",
+          "value": "Inside the Executive Suite",
+          "variant": "hero-subheading"
         },
         {
           "type": "text",
@@ -1030,12 +1035,12 @@ export const events = [
         "content": [
           {
             "type": "text",
-            "value": "Join an elite circle of visionaries",
+            "value": "Introducing... A Business Workshop Like No Other",
             "variant": "heading"
           },
           {
             "type": "image",
-            "value": "/cincinnati/placeholder.jpg"
+            "value": "/cincinnati/info-cards/Hot seat sessions at the Reds .jpg"
           },
           {
             "type": "text",
@@ -1158,25 +1163,25 @@ export const events = [
             "items": [
               {
                 "type": "text",
-                "value": <><span className="text-brand-yellow">Exclusive & Curated</span>: Limited to 30 participants for meaningful connections</>,
+                "value": <><span className="text-brand-yellow">Exclusive & Curated</span>: Limited to 30 participants for meaningful connections. Spots are extremely limited & each applicant is vetted extensively.</>,
                 "variant": "list-item",
                 "align": "left"
               },
               {
                 "type": "text",
-                "value": <><span className="text-brand-yellow">Actionable Solutions</span>: Direct consulting from industry leaders</>,
+                "value": <><span className="text-brand-yellow">Actionable Solutions</span>: Spots are extremely limited & each applicant is vetted extensively.</>,
                 "variant": "list-item",
                 "align": "left"
               },
               {
                 "type": "text",
-                "value": <><span className="text-brand-yellow">VIP Access</span>: Unique opportunity to meet with Reds GM</>,
+                "value": <><span className="text-brand-yellow">VIP Access</span>: Unique opportunity to meet and watch the game with Reds GM in the Executive Suite.</>,
                 "variant": "list-item",
                 "align": "left"
               },
               {
                 "type": "text",
-                "value": <><span className="text-brand-yellow">Real ROI</span>: Past attendees report value equivalent to $250,000 in consulting</>,
+                "value": <><span className="text-brand-yellow">Real ROI</span>: Past attendees report value equivalent to $250,000 in consulting.</>,
                 "variant": "list-item",
                 "align": "left"
               }
@@ -1184,9 +1189,53 @@ export const events = [
           },
           {
             "type": "text",
-            "value": "We're ditching the traditional conference format for a high-impact, intimate workshop where real business transformation happens. No endless panels or generic content—just powerful solutions and connections with leaders who understand your challenges.",
+            "value": "We’re ditching the typical conference room for a Major League stadium—because real transformation doesn’t happen in rows of chairs. This is a high-impact, intimate workshop designed for meaningful breakthroughs, not endless panels or surface-level content. Just powerful strategies, real conversations, and connections with leaders who truly get your challenges.",
             "variant": "body",
             "align": "left"
+          },
+          {
+            "type": "text",
+            "value": "Picture this: You’re standing on the field at Great American Ball Park, surrounded by top entrepreneurs, execs, and experts—ex-CHRO of Chipotle, an AirBnB founder, a VP at Amazon Prime, bestselling authors, TED speakers… even Novak Djokovic’s performance coach. Oh, and the owner of the Reds + key execs? Yeah, they’ll be there too.",
+            "variant": "body",
+            "align": "left"
+          }
+        ]
+      },
+      {
+        "id": "past-events",
+        "background": {
+          "type": "color",
+          "value": {
+            "type": "brand",
+            "value": "white"
+          }
+        },
+        "text-color": {
+          "type": "brand",
+          "value": "black"
+        },
+        "content": [
+          {
+            "type": "text",
+            "value": "Past events",
+            "variant": "heading"
+          },
+          {
+            "type": "image-buttons",
+            "items": [
+              {
+                "text": "Mexico",
+                "image": "/cincinnati/mexico-thumbnail.jpg",
+                "action": "modal",
+                "target": "mexico-video"
+              },
+              {
+                "text": "Idaho",
+                "image": "/cincinnati/idaho-thumbnail.jpg",
+                "action": "modal",
+                "target": "idaho-video"
+              }
+            ]
           }
         ]
       },
@@ -1206,14 +1255,19 @@ export const events = [
         "content": [
           {
             "type": "text",
-            "value": "Day 1: Collaborative Problem-Solving",
+            "value": "Day 1:",
             "variant": "heading"
+          },
+          {
+            "type": "text",
+            "value": "What to expect",
+            "variant": "subheading"
           },
           {
             "type": "info-card",
             "title": "Hot Seat Sessions",
-            "description": "Share challenges in a confidential environment where you can be vulnerable without judgment. Receive undivided attention from peers who truly \"get it\" and have overcome similar obstacles.",
-            "image": "/cincinnati/placeholder.jpg",
+            "description": "A safe space to share your struggles without the fear of looking weak in front of your team or industry. Receive undivided attention and strategic brainstorming from peers who truly \"get it\" and have overcome similar obstacles.",
+            "image": "/cincinnati/info-cards/Hot seat sessions at the Reds .jpg",
             "align": "left",
             "background": {
               "type": "color",
@@ -1227,7 +1281,7 @@ export const events = [
             "type": "info-card",
             "title": "Q&A with Reds GM",
             "description": "Gain insights from the General Manager and President of Baseball Operations. Learn leadership strategies that have built lasting legacies both on and off the field.",
-            "image": "/cincinnati/placeholder.jpg",
+            "image": "/cincinnati/info-cards/Q A GM .jpeg",
             "align": "right",
             "background": {
               "type": "color",
@@ -1239,9 +1293,37 @@ export const events = [
           },
           {
             "type": "info-card",
-            "title": "Batting Practice",
+            "title": "Expert-Led Insights",
+            "description": "Intimate discussions from world leaders on a wide of topics from Efficiency, AI, Marketing, Team Culture, Health, and more.",
+            "image": "/cincinnati/info-cards/Expert led session .JPG",
+            "align": "left",
+            "background": {
+              "type": "color",
+              "value": {
+                "type": "brand",
+                "value": "white"
+              }
+            }
+          },
+          {
+            "type": "info-card",
+            "title": "Batting Cages",
             "description": "Hit balls with Reds alumni pitchers and experience the thrill that most only dream about. A reminder that success should be both meaningful and enjoyable.",
-            "image": "/cincinnati/placeholder.jpg",
+            "image": "/cincinnati/info-cards/batting cages reds .jpeg",
+            "align": "right",
+            "background": {
+              "type": "color",
+              "value": {
+                "type": "brand",
+                "value": "white"
+              }
+            }
+          },
+          {
+            "type": "info-card",
+            "title": "Private Reds Hall of Fame and Museum",
+            "description": "Led by one of the Founders of Reds. One of the only MLB stadiums with an attached museum, the Reds Hall of Fame houses artifacts from legends like Pete Rose and Joe Morgan, along with interactive exhibits detailing the franchise’s storied past.",
+            "image": "/cincinnati/info-cards/hall of fame Reds .jpg",
             "align": "left",
             "background": {
               "type": "color",
@@ -1255,7 +1337,7 @@ export const events = [
             "type": "info-card",
             "title": "Exclusive Dinner",
             "description": "Forge genuine connections with like-minded leaders during an upscale dinner. Build relationships that extend beyond business—the kind that make success less isolating.",
-            "image": "/cincinnati/placeholder.jpg",
+            "image": "/cincinnati/info-cards/Dinner option 2 .jpeg",
             "align": "right",
             "background": {
               "type": "color",
@@ -1293,14 +1375,14 @@ export const events = [
         "content": [
           {
             "type": "text",
-            "value": "Day 2: Application and VIP Experience",
+            "value": "Day 2:",
             "variant": "heading"
           },
           {
             "type": "info-card",
             "title": "Follow-Up Hot Seat Sessions",
             "description": "Validate your decisions with actionable feedback from your new trusted circle of advisors. Leave with the confidence to execute at the highest level.",
-            "image": "/cincinnati/placeholder.jpg",
+            "image": "/cincinnati/info-cards/Follow - Up Hot Seat Sessions .JPG",
             "align": "left",
             "background": {
               "type": "color",
@@ -1312,9 +1394,9 @@ export const events = [
           },
           {
             "type": "info-card",
-            "title": "Q&A with Reds CEO",
-            "description": "Exclusive insights from the President & Chief Executive Officer on building organizations that stand the test of time and create meaningful impact.",
-            "image": "/cincinnati/placeholder.jpg",
+            "title": "Q&A with Reds President & COO",
+            "description": "Exclusive insights from the President & Chief Operating Officer on building organizations that stand the test of time and create meaningful impact.",
+            "image": "/cincinnati/info-cards/Q A w_ president and COO .jpeg",
             "align": "right",
             "background": {
               "type": "color",
@@ -1327,7 +1409,7 @@ export const events = [
           {
             "type": "info-card",
             "title": "On-Field Batting Practice",
-            "description": "Step onto the sacred ground where legends have played. Experience the kind of access reserved only for an elite few.",
+            "description": "Step onto the same field where legends have stood. Smell the grass, feel the lights, and if you're lucky, catch a ball—because moments like this aren’t meant to stay in the stands.",
             "image": "/cincinnati/placeholder.jpg",
             "align": "left",
             "background": {
@@ -1340,24 +1422,10 @@ export const events = [
           },
           {
             "type": "info-card",
-            "title": "VIP Game Viewing",
-            "description": "Enjoy the freedom of stepping away from your business to appreciate life's moments while surrounded by peers who've mastered the same balance.",
-            "image": "/cincinnati/placeholder.jpg",
+            "title": "VIP Game Viewing: Executive Suite Experience",
+            "description": "Savor the freedom-driven lifestyle you’ve earned—surrounded by peers who know what it takes to get there. Watch the game in VIP style from a private executive suite alongside the President and COO of the Cincinnati Reds—beer in hand, a gourmet dinner at your side, and Elly De La Cruz sending one over the fence.",
+            "image": "/cincinnati/info-cards/VIP Game Viewing .jpg",
             "align": "right",
-            "background": {
-              "type": "color",
-              "value": {
-                "type": "brand",
-                "value": "white"
-              }
-            }
-          },
-          {
-            "type": "info-card",
-            "title": "Executive Suite Experience",
-            "description": "Network in a private suite that signals your arrival among business elite. The kind of experience that reminds you why you work so hard.",
-            "image": "/cincinnati/placeholder.jpg",
-            "align": "left",
             "background": {
               "type": "color",
               "value": {
@@ -1390,13 +1458,18 @@ export const events = [
         "content": [
           {
             "type": "text",
-            "value": "Secure Your Spot Among Visionaries",
+            "value": "Secure Your Seat Among the Leaders Who Redefine Success",
             "variant": "heading"
+          },
+          {
+            "type": "text",
+            "value": "May 22 & 23, 2025",
+            "variant": "subheading"
           },
           {
             "type": "info-card",
             "title": "Elevate Your Business & Legacy",
-            "description": "Gain actionable insights from diverse industry leaders who've built businesses that matter. Design systems that scale without sacrificing your wellbeing.",
+            "description": "Go beyond just growth—design a business that works for you. Gain real-world insights from those who’ve built meaningful success and sustainable systems—without burning out.",
             "emoji": "🚀",
             "align": "left",
             "variant": "small",
@@ -1412,7 +1485,7 @@ export const events = [
           {
             "type": "info-card",
             "title": "Forge Your Inner Circle",
-            "description": "End the isolation at the top by connecting with high-level professionals who understand your unique challenges. Build relationships that provide both support and accountability.",
+            "description": "No more doing it alone at the top. Surround yourself with accomplished peers who understand your pace, your pressure, and your vision. Walk away with powerful relationships that bring clarity, support, and momentum.",
             "emoji": "🤝",
             "align": "left",
             "variant": "small",
@@ -1427,8 +1500,8 @@ export const events = [
           },
           {
             "type": "info-card",
-            "title": "Experience Exclusive Access",
-            "description": "Enjoy privileges reserved for the few who've earned their place at the table. A reminder that success should come with rewards worth savoring.",
+            "title": "Experience What You’ve Earned",
+            "description": "Enjoy the kind of access and ease that reminds you why you’ve worked so hard. Private moments, rare privileges, and a space where success feels less like a grind—and more like a life well-lived.",
             "emoji": "🔑",
             "align": "left",
             "variant": "small",
@@ -1439,6 +1512,142 @@ export const events = [
                 "type": "hex",
                 "value": "#2A2A2A"
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "past-speakers",
+        "background": {
+          "type": "color",
+          "value": {
+            "type": "brand",
+            "value": "black"
+          }
+        },
+        "text-color": {
+          "type": "brand",
+          "value": "white"
+        },
+        "content": [
+          {
+            "type": "text",
+            "value": "Past speakers",
+            "variant": "heading"
+          },
+          {
+            "type": "profile-gallery",
+            "profiles": [
+              {
+                "name": "Chip Conley",
+                "title": "Hospitality Pioneer & Airbnb Strategic Advisor",
+                "image": "/cincinnati/speakers/chip-conley.jpeg",
+                "description": "New York Times bestselling author Chip Conley is the hospitality maverick who helped Airbnb's founders turn their fast-growing tech start-up into the global hospitality brand."
+              },
+              {
+                "name": "Mike Koenigs",
+                "title": "Marketing Expert & Business Growth Strategist",
+                "image": "/cincinnati/speakers/mike-koenigs.jpeg",
+                "description": "Mike Koenigs is a 13-time #1 bestselling author, 'Marketer of the Year', and serial entrepreneur best known for turning business owners into Transformational Business Celebrity Influencers."
+              },
+              {
+                "name": "Marissa Andrada",
+                "title": "Corporate Leadership & Culture Expert",
+                "image": "/cincinnati/speakers/marissa-andrada.jpeg",
+                "description": "Krispy Kreme's Independent Board Director & former Chipotle CHRO, Marissa Andrada is a people-focused thought leader. She excels in strategy, talent development, and navigating founder/CEO transitions."
+              },
+              {
+                "name": "Blake Eastman",
+                "title": "Behavioral Scientist & Leadership Coach",
+                "image": "/cincinnati/speakers/blake-eastman.jpeg",
+                "description": "Behavioral scientist Blake Eastman helps CEOs, entrepreneurs, and executives craft a customized style of behavioral leadership. He is the founder of The Nonverbal Group and former adjunct psychology professor at the City University of New York."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "testimonials",
+        "background": {
+          "type": "color",
+          "value": {
+            "type": "brand",
+            "value": "white"
+          }
+        },
+        "content": [
+          {
+            "type": "text",
+            "value": "What our attendees say",
+            "variant": "heading"
+          },
+          {
+            "type": "testimonial-carousel",
+            "value": [
+              {
+                "quote": "Attending the Baja OG event was truly transformative. I formed deep connections with inspiring individuals and gained invaluable insights that have already made a lasting impact. In fact, just one week after the event, I launched a new business with one of my OG connections! Every aspect of the experience was thoughtfully curated, set against an absolutely breathtaking backdrop. I can't recommend it highly enough!",
+                "name": "Jason Mewis",
+                "role": "President & Founder @ Engcomp",
+                "avatar": "/cincinnati/testimonials/jason-mewis.jpeg"
+              },
+              {
+                "quote": "The power of Hot Seats is exponential when you bring talented people together who share openly, with great vulnerability, their thought leadership and openly ask for help. It's hard, frankly, for anyone to ask for help. At the OG Retreat, there's so much talent in the room. To pay any one of these people to consult with you for a day is priceless, but to get all this together in one room, weighing in, elevates the impact.",
+                "name": "Robert S. Castellini",
+                "role": "Managing Director - Investments @ Wells Fargo",
+                "avatar": "/cincinnati/testimonials/robert-castellini.png"
+              },
+              {
+                "quote": "I came to this OG Retreat because I really needed a vacation with other ambitious entrepreneurs—it's all about that social connection and stimulating conversations. I'm weird and it's hard to find really solid connections with people because of the position that I'm in my work. But here I was, surrounded by people who get me.",
+                "name": "Dan Guido",
+                "role": "CEO & Co-Foundern of Trail of Bits - Cybersecurity Firm",
+                "avatar": "/cincinnati/testimonials/dan-guido.jpg"
+              },
+              {
+                "quote": "This mastermind gave me clear direction and actionable strategies to finally hit my business goals that I've been putting on paper but haven't been able to achieve. I believe the techniques and strategies that I've learned here today will 10x my growth in just one year.",
+                "name": "Dr. Donald Shrump",
+                "role": "Sports Performance Coach w/ a roster of top athletes like Novak Djokovic",
+                "avatar": "/cincinnati/testimonials/donald-shrump.png"
+              },
+              {
+                "quote": "Nick does a great job putting together these events and really bringing some some legitimate experts in their field. Every time I come to a leverage event, I'm always learning some really incredible stuff. Leverages businesses at optimization. I learned strategies to save a second here, a minute there, an hour here, and really cut down and become more efficient and optimize my business.",
+                "name": "Josh Martin",
+                "role": "Former Pro NFL player - Owner of Smoothie King Franchises",
+                "avatar": "/cincinnati/testimonials/josh-martin.png"
+              }
+            ]
+          },
+          {
+            "type": "video-gallery",
+            "value": [
+              {
+                "src": "https://app.searchie.io/file/92QbmGMgDp/embed"
+              },
+              {
+                "src": "https://app.searchie.io/file/w2VaYAeeqM/embed"
+              },
+              {
+                "src": "https://app.searchie.io/file/kqkOLVyMq4/embed"
+              },
+              {
+                "src": "https://app.searchie.io/file/l2RZ3kMx2a/embed"
+              },
+              {
+                "src": "https://app.searchie.io/file/VDGxYnKjNW/embed"
+              },
+              {
+                "src": "https://app.searchie.io/file/5qnlxWBvDr/embed"
+              },
+              {
+                "src": "https://app.searchie.io/file/RD6dJ1QPqQ/embed"
+              },
+              {
+                "src": "https://app.searchie.io/file/92QbZko9Dp/embed"
+              }
+            ],
+            "initialDisplay": 4,
+            "button": {
+              "text": "See More Testimonials",
+              "variant": "yellow"
             }
           }
         ]
@@ -1499,7 +1708,7 @@ export const events = [
           },
           {
             "type": "text",
-            "value": "Who this event is NOT for",
+            "value": <>Who this event is <span style={{ color: "#C6011F" }}>NOT</span> for</>,
             "variant": "heading"
           },
           {
@@ -1605,17 +1814,26 @@ export const events = [
           },
           {
             "type": "text",
-            "value": "This isn't just another networking event—it's your opportunity to be recognized among those making a lasting impact.",
+            "value": "This isn’t just another networking event—it’s your invitation to step into a room where real influence, impact, and growth happen.",
             "variant": "subheading"
           },
           {
             "type": "text",
-            "value": "You've built success. But what got you here won't get you to the next level. You don't need another generic business seminar—you need an exclusive circle of high-level thinkers who challenge you, support you, and help you unlock the next stage of growth, wealth, and freedom.",
+            "value": "You’ve built success. But what got you here won’t get you to what’s next. You don’t need another surface-level seminar—you need an exclusive circle of sharp minds who challenge your thinking, expand your vision, and unlock new levels of freedom, wealth, and legacy.",
             "variant": "body"
           },
           {
+            "type": "text",
+            "value": "Book your call with Jessica and apply today:",
+            "variant": "body",
+            "color": {
+              "type": "brand",
+              "value": "yellow"
+            }
+          },
+          {
             "type": "button",
-            "text": "Apply Now",
+            "text": "Explore if you’re a fit",
             "action": "href",
             "target": "https://meetings.hubspot.com/jessica-carroll1/events?uuid=0eecf81e-3cf5-4347-8551-6607c1c0d6df",
             "variant": "white",
