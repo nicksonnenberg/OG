@@ -1569,6 +1569,21 @@ export const events = [
               },
             },
           },
+          {
+            type: "info-card",
+            title: "🎯 VIP Game Viewing: Executive Suite Experience",
+            description:
+              "Savor the freedom-driven lifestyle you've earned - surrounded by peers who know what it takes to get there. Watch the game in VIP style from a private executive suite alongside the President and COO of the Cincinnati Reds-beer in hand, a gourmet dinner at your side, and Elly De La Cruz sending one over the fence.",
+            image: "/cincinnati/info-cards/VIP Game Viewing .jpg",
+            align: "left",
+            background: {
+              type: "color",
+              value: {
+                type: "brand",
+                value: "white",
+              },
+            },
+          },
         ],
       },
       {
