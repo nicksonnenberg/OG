@@ -15,6 +15,23 @@ export async function generateMetadata({ params }: { params: { eventId: string }
   return {
     title: event.details.title,
     description: event.details.subtitle,
+    openGraph: {
+      type: "website",
+      url: "https://events.nicksonnenberg.com",
+      title: event.details.title,
+      description: event.details.subtitle,
+      images: [
+        {
+          url: event.details["preview-image"]
+        }
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: event.details.title,
+      description: event.details.subtitle,
+      images: event.details["preview-image"],
+    },
   };
 }
 

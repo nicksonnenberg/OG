@@ -35,7 +35,24 @@ export const metadata: Metadata = {
   description: "Nick Sonnenberg Events",
   appleWebApp: {
     title: "Nick Sonnenberg Events"
-  }
+  },
+  openGraph: {
+    type: "website",
+    url: "https://events.nicksonnenberg.com",
+    title: "Nick Sonnenberg Events",
+    description: "Nick Sonnenberg Events",
+    images: [
+      {
+        url: "/OG-group.png"
+      }
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Nick Sonnenberg Events",
+    description: "Nick Sonnenberg Events",
+    images: "/OG-group.png",
+  },
 };
 
 export default function RootLayout({
