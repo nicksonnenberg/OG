@@ -1147,7 +1147,7 @@ export const events = [
           {
             type: "text",
             value:
-              "Join an elite circle of Entrepreneurs, Executives, and Experts for an exclusive two-day event where visionaries connect and transform their businesses together. Take your seat at the table with other high-level leaders who understand the challenges at the top.",
+              "Join an elite circle of Entrepreneurs, Executives, and Experts for an exclusive two-day event where visionaries connect and transform their businesses together.",
             variant: "body",
             align: "left",
           },
@@ -1200,20 +1200,10 @@ export const events = [
           },
           {
             type: "text",
-            value: "The Process Optimization Workshop",
+            value: "This Workshop is designed for one thing: ROT - Return on Time",
             variant: "paragraph-heading",
             underline: true,
             align: "left",
-          },
-          {
-            type: "text",
-            value: "Designed for one thing: ROT — Return on Time",
-            variant: "body",
-            align: "left",
-            color: {
-              type: "brand",
-              value: "yellow",
-            },
           },
           {
             type: "text",
