@@ -1013,7 +1013,7 @@ export const events = [
   {
     id: "cincinnati",
     details: {
-      title: "VIP Business Workshop",
+      title: "Process Optimization Workshop",
       subtitle: "Cincinnati Reds Baseball Stadium",
       location: "Cincinnati, Ohio",
       dates: "May 22-23, 2025",
@@ -1086,7 +1086,7 @@ export const events = [
         },
         {
           type: "text",
-          value: "BUSINESS WORKSHOP",
+          value: "PROCESS OPTIMIZATION WORKSHOP",
           variant: "hero-heading",
         },
         {
@@ -1200,16 +1200,135 @@ export const events = [
           },
           {
             type: "text",
-            value: "We are highly selective and keep our group small.",
+            value: "The Process Optimization Workshop",
             variant: "paragraph-heading",
             underline: true,
             align: "left",
           },
           {
             type: "text",
-            value: "Attendees include:",
+            value: "Designed for one thing: ROT — Return on Time",
+            variant: "body",
+            align: "left",
+          },
+          {
+            type: "text",
+            value: "Time is your most limited resource. This two-day intensive is your chance to zoom out, get strategic, and solve what's slowing you down — with a room full of experienced operators and top performers acting as your executive strategy team.",
+            variant: "body",
+            align: "left",
+          },
+          {
+            type: "testimonial",
+            quote:
+              "I'm hard to impress... but the last workshop was different. It gave me the intellectual capital I needed — a place to talk things through and get to the answer. That space alone was invaluable.",
+            name: "Bryan Lowrie",
+            role: "CEO/President @ SEKO Logistics",
+            avatar: "/cincinnati/testimonials/bryan-lowrie.jpg",
+          },
+          {
+            type: "text",
+            value: "The Format:",
             variant: "paragraph-heading",
             underline: true,
+            align: "left",
+          },
+          {
+            type: "list",
+            items: [
+              {
+                type: "text",
+                value: "You bring a process, challenge, or idea you want to optimize.",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "The group dives in with sharp questions and battle-tested strategies.",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "You leave with clarity, action steps, and momentum.",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "Then we move to the next person — and repeat.",
+                variant: "list-item",
+                align: "left",
+              },
+            ],
+          },
+          {
+            type: "text",
+            value: "💡 Two full days. No fluff. No filler. Just execution.",
+            variant: "body",
+            align: "left",
+          },
+          {
+            type: "testimonial",
+            quote:
+              "I was a ChatGPT super user before this event — and I walked away with tools and strategies I had never seen before. I started implementing them while I was there.",
+            name: "Kelly Bianucci",
+            role: "Acquisition Entrepreneur",
+            avatar: "/cincinnati/testimonials/kelly-bianucci.jpg",
+          },
+          {
+            type: "text",
+            value: "What You'll Walk Away With:",
+            variant: "paragraph-heading",
+            underline: true,
+            align: "left",
+          },
+          {
+            type: "list",
+            items: [
+              {
+                type: "text",
+                value: "Immediate wins: walk away with your process streamlined and real-time input you can use now",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "Big-picture clarity: spot inefficiencies and opportunities that were hiding in plain sight",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "Leverage tech smarter: get practical ideas for how to use AI and automation in your workflows",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "A mindset shift that helps you see what's possible — and how to get there faster",
+                variant: "list-item",
+                align: "left",
+              },
+            ],
+          },
+          {
+            type: "testimonial",
+            quote: "The retreat wasn't full of fluff or surface-level stuff. It was real people, sharing real challenges — and solving them together.",
+            name: "Max Dembow",
+            role: "Partner @ Kaizen Planning & Wealth Management",
+            avatar: "/cincinnati/testimonials/max-dembow.jpg",
+          },
+          {
+            type: "text",
+            value: "Who's In the Room?",
+            variant: "paragraph-heading",
+            underline: true,
+            align: "left",
+          },
+          {
+            type: "text",
+            value: "We keep it small and selective — so every seat is powerful. Past attendees include:",
+            variant: "body",
             align: "left",
           },
           {
@@ -1218,44 +1337,73 @@ export const events = [
             items: [
               {
                 type: "text",
-                value: "NYT best selling authors",
+                value: "NYT Bestselling Authors",
                 variant: "list-item",
                 align: "left",
               },
               {
                 type: "text",
-                value:
-                  "Fortune 500 executives from Chipotle, Starbucks, AirBnB",
+                value: "Fortune 500 Execs from Chipotle, Starbucks, Airbnb",
                 variant: "list-item",
                 align: "left",
               },
               {
                 type: "text",
-                value:
-                  "Top computer hackers and cyber security experts. Leaders in the field of AI.",
+                value: "Top cybersecurity experts and elite hackers",
                 variant: "list-item",
                 align: "left",
               },
               {
                 type: "text",
-                value:
-                  "Peak-performance wellness experts (including Novak Djokovick's coach)",
+                value: "Leaders in AI, automation, and innovation",
                 variant: "list-item",
                 align: "left",
               },
               {
                 type: "text",
-                value: "NFL players",
+                value: "Peak-performance coaches (including Novak Djokovic's coach)",
                 variant: "list-item",
                 align: "left",
               },
               {
                 type: "text",
-                value: "Entrepreneurs of 8-9 figure companies.",
+                value: "NFL Players",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "Founders of 8- and 9-figure companies",
                 variant: "list-item",
                 align: "left",
               },
             ],
+          },
+          {
+            type: "text",
+            value: "Bottom Line:",
+            variant: "paragraph-heading",
+            underline: true,
+            align: "left",
+          },
+          {
+            type: "text",
+            value: <>This is for leaders who want to <u><strong>scale smarter</strong></u>.</>,
+            variant: "body",
+            align: "left",
+          },
+          {
+            type: "text",
+            value: "You'll leave with optimized systems, better tools, and sharper strategies, so you can make faster decisions, delegate more confidently, and get a higher return on your most valuable asset:",
+            variant: "body",
+            align: "left",
+          },
+          {
+            type: "text",
+            value: "TIME",
+            variant: "huge-body",
+            animatedUnderline: true,
+            align: "left",
           },
           {
             type: "text",

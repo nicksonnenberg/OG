@@ -1,9 +1,9 @@
 "use client";
 
-import { useState, useEffect, useCallback, useRef } from "react";
+import { useEffect, useCallback, useRef } from "react";
 import Image from "next/image";
-import { cn } from "@/lib/utils";
 import useEmblaCarousel from "embla-carousel-react";
+import { TestimonialCard, TestimonialCardProps } from "./testimonial-card";
 
 interface Testimonial {
   quote: string;
@@ -13,7 +13,7 @@ interface Testimonial {
 }
 
 interface TestimonialCarouselProps {
-  testimonials: Testimonial[];
+  testimonials: TestimonialCardProps[];
   autoplayDelay?: number;
 }
 
@@ -85,28 +85,8 @@ export const TestimonialCarousel = ({
                 WebkitFontSmoothing: "subpixel-antialiased",
               }}
             >
-              <div className="m-2 flex h-full flex-col rounded-xl bg-brand-white p-6 border shadow-lg transition-all duration-300 hover:shadow-xl dark:bg-gray-800">
-                <div className="mb-4 flex items-center">
-                  <div className="relative h-12 w-12 flex-shrink-0 overflow-hidden rounded-full mr-4">
-                    <Image
-                      src={testimonial.avatar}
-                      alt={testimonial.name}
-                      fill
-                      sizes="(max-width: 768px) 48px, 48px"
-                      className="object-cover"
-                    />
-                  </div>
-                  <div>
-                    <div className="font-semibold">{testimonial.name}</div>
-                    <div className="text-sm text-gray-500 dark:text-gray-400">
-                      {testimonial.role}
-                    </div>
-                  </div>
-                </div>
-
-                <blockquote className="flex-grow text-base italic text-gray-700 dark:text-gray-300">
-                  "{testimonial.quote}"
-                </blockquote>
+              <div className="m-2">
+                <TestimonialCard {...testimonial} />
               </div>
             </div>
           ))}

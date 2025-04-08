@@ -14,6 +14,7 @@ import { LinkedInPost } from "@/components/linkedin-post";
 import { Button } from "@/components/ui/button";
 import { getBackgroundStyle, getTextColorClass } from "@/lib/utils";
 import { ContentSectionProps } from "@/lib/types";
+import { TestimonialCard } from "@/components/testimonial-card";
 
 export const ContentSection = ({ id, background, textColor, content }: ContentSectionProps) => {
   const renderContent = (item: any, index: number) => {
@@ -26,6 +27,7 @@ export const ContentSection = ({ id, background, textColor, content }: ContentSe
             align={item.align || "center"}
             underline={item.underline}
             color={item.color}
+            animatedUnderline={item.animatedUnderline}
           >
             {item.value}
           </Text>
@@ -143,6 +145,18 @@ export const ContentSection = ({ id, background, textColor, content }: ContentSe
             variant={item.variant}
             align={item.align}
           />
+        );
+      
+      case "testimonial":
+        return (
+          <div key={index} className="w-full max-w-md my-6">
+            <TestimonialCard
+              quote={item.quote}
+              name={item.name}
+              role={item.role}
+              avatar={item.avatar}
+            />
+          </div>
         );
       
       default:
