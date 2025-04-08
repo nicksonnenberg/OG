@@ -1210,6 +1210,10 @@ export const events = [
             value: "Designed for one thing: ROT — Return on Time",
             variant: "body",
             align: "left",
+            color: {
+              type: "brand",
+              value: "yellow",
+            },
           },
           {
             type: "text",
@@ -1224,6 +1228,7 @@ export const events = [
             name: "Bryan Lowrie",
             role: "CEO/President @ SEKO Logistics",
             avatar: "/cincinnati/testimonials/bryan-lowrie.jpg",
+            extraLarge: true,
           },
           {
             type: "text",
@@ -1263,9 +1268,13 @@ export const events = [
           },
           {
             type: "text",
-            value: "💡 Two full days. No fluff. No filler. Just execution.",
+            value: "Two full days. No fluff. No filler. Just execution.",
             variant: "body",
             align: "left",
+            color: {
+              type: "brand",
+              value: "yellow"
+            }
           },
           {
             type: "testimonial",
@@ -1274,6 +1283,7 @@ export const events = [
             name: "Kelly Bianucci",
             role: "Acquisition Entrepreneur",
             avatar: "/cincinnati/testimonials/kelly-bianucci.jpg",
+            extraLarge: true,
           },
           {
             type: "text",
@@ -1284,28 +1294,37 @@ export const events = [
           },
           {
             type: "list",
+            variant: "bulleted",
             items: [
               {
                 type: "text",
-                value: "Immediate wins: walk away with your process streamlined and real-time input you can use now",
+                value: <>
+                  <span className="text-brand-yellow">Immediate wins:</span> walk away with your process streamlined and real-time input you can use now,
+                </>,
                 variant: "list-item",
                 align: "left",
               },
               {
                 type: "text",
-                value: "Big-picture clarity: spot inefficiencies and opportunities that were hiding in plain sight",
+                value: <>
+                  <span className="text-brand-yellow">Big-picture clarity:</span> spot inefficiencies and opportunities that were hiding in plain sight,
+                </>,
                 variant: "list-item",
                 align: "left",
               },
               {
                 type: "text",
-                value: "Leverage tech smarter: get practical ideas for how to use AI and automation in your workflows",
+                value: <>
+                  <span className="text-brand-yellow">Leverage tech smarter:</span> get practical ideas for how to use AI and automation in your workflows,
+                </>,
                 variant: "list-item",
                 align: "left",
               },
               {
                 type: "text",
-                value: "A mindset shift that helps you see what's possible — and how to get there faster",
+                value: <>
+                  <span className="text-brand-yellow">A mindset shift</span> that helps you see what's possible — and how to get there faster,
+                </>,
                 variant: "list-item",
                 align: "left",
               },
@@ -1317,6 +1336,7 @@ export const events = [
             name: "Max Dembow",
             role: "Partner @ Kaizen Planning & Wealth Management",
             avatar: "/cincinnati/testimonials/max-dembow.jpg",
+            extraLarge: true,
           },
           {
             type: "text",
@@ -1404,86 +1424,11 @@ export const events = [
             variant: "huge-body",
             animatedUnderline: true,
             align: "left",
-          },
-          {
-            type: "text",
-            value: "Why attend?",
-            variant: "paragraph-heading",
-            underline: true,
-            align: "left",
-          },
-          {
-            type: "list",
-            variant: "bulleted",
-            items: [
-              {
-                type: "text",
-                value: (
-                  <>
-                    <span className="text-brand-yellow">
-                      Exclusive & Curated
-                    </span>
-                    : Limited to 30 participants for meaningful connections.
-                    Spots are extremely limited & each applicant is vetted
-                    extensively.
-                  </>
-                ),
-                variant: "list-item",
-                align: "left",
-              },
-              {
-                type: "text",
-                value: (
-                  <>
-                    <span className="text-brand-yellow">
-                      Actionable Solutions
-                    </span>
-                    : Spots are extremely limited & each applicant is vetted
-                    extensively.
-                  </>
-                ),
-                variant: "list-item",
-                align: "left",
-              },
-              {
-                type: "text",
-                value: (
-                  <>
-                    <span className="text-brand-yellow">VIP Access</span>:
-                    Unique opportunity to meet and watch the game with Reds GM
-                    in the Executive Suite.
-                  </>
-                ),
-                variant: "list-item",
-                align: "left",
-              },
-              {
-                type: "text",
-                value: (
-                  <>
-                    <span className="text-brand-yellow">Real ROI</span>: Past
-                    attendees report value equivalent to $250,000 in consulting.
-                  </>
-                ),
-                variant: "list-item",
-                align: "left",
-              },
-            ],
-          },
-          {
-            type: "text",
-            value:
-              "We’re ditching the typical conference room for a Major League stadium—because real transformation doesn’t happen in rows of chairs. This is a high-impact, intimate workshop designed for meaningful breakthroughs, not endless panels or surface-level content. Just powerful strategies, real conversations, and connections with leaders who truly get your challenges.",
-            variant: "body",
-            align: "left",
-          },
-          {
-            type: "text",
-            value:
-              "Picture this: You’re standing on the field at Great American Ball Park, surrounded by top entrepreneurs, execs, and experts—ex-CHRO of Chipotle, an AirBnB founder, a VP at Amazon Prime, bestselling authors, TED speakers… even Novak Djokovic’s performance coach. Oh, and the owner of the Reds + key execs? Yeah, they’ll be there too.",
-            variant: "body",
-            align: "left",
-          },
+            color: {
+              type: "brand",
+              value: "yellow"
+            }
+          }
         ],
       },
       {

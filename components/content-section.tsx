@@ -155,6 +155,7 @@ export const ContentSection = ({ id, background, textColor, content }: ContentSe
               name={item.name}
               role={item.role}
               avatar={item.avatar}
+              extraLarge={item.extraLarge}
             />
           </div>
         );

@@ -12,6 +12,7 @@ export const AnimatedUnderline = ({ className }: AnimatedUnderlineProps) => {
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 500 150"
       preserveAspectRatio="none"
+      className={className}
     >
       <motion.path
         initial={{ pathLength: 0, opacity: 0 }}

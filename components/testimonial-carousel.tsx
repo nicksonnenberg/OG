@@ -10,6 +10,7 @@ interface Testimonial {
   name: string;
   role: string;
   avatar: string;
+  extraLarge?: boolean;
 }
 
 interface TestimonialCarouselProps {
