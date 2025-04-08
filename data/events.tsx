@@ -1229,6 +1229,7 @@ export const events = [
           },
           {
             type: "list",
+            variant: "bulleted",
             items: [
               {
                 type: "text",
