@@ -1147,7 +1147,7 @@ export const events = [
           {
             type: "text",
             value:
-              "Join an elite circle of Entrepreneurs, Executives, and Experts for an exclusive two-day event where visionaries connect and transform their businesses together.",
+              "Join an elite group of Entrepreneurs, Executives, and Experts for an exclusive two-day event where visionaries connect and transform their businesses together.",
             variant: "body",
             align: "left",
           },
