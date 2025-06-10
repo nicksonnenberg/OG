@@ -2131,7 +2131,7 @@ export const events = [
           },
           {
             type: "hex",
-            value: "#007acc",
+            value: "#484c6c",
           },
         ],
       },
@@ -2179,11 +2179,15 @@ export const events = [
           value: [
             {
               type: "hex",
-              value: "#007acc",
+              value: "#484c6c",
             },
             {
               type: "brand",
               value: "navy",
+            },
+            {
+              type: "brand",
+              value: "black",
             },
           ],
         },
@@ -2485,12 +2489,16 @@ export const events = [
       type: "gradient",
       value: [
         {
+          type: "hex",
+          value: "#484c6c",
+        },
+        {
           type: "brand",
           value: "navy",
         },
         {
-          type: "hex",
-          value: "#007acc",
+          type: "brand",
+          value: "black",
         },
       ],
     },
