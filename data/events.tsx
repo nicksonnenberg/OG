@@ -1457,7 +1457,7 @@ export const events = [
             type: "info-card",
             title: "Elevate Your Business & Legacy",
             description:
-              "Go beyond just growth—break free from burnout and build a business that fuels your future. Learn directly from those who’ve scaled with sanity and created real impact.",
+              "Go beyond just growth—break free from burnout and build a business that fuels your future. Learn directly from those who've scaled with sanity and created real impact.",
             emoji: "🚀",
             align: "left",
             variant: "small",
@@ -1489,9 +1489,9 @@ export const events = [
           },
           {
             type: "info-card",
-            title: "Experience What You’ve Earned",
+            title: "Experience What You've Earned",
             description:
-              "You’ve earned this. Access rare moments, private experiences, and a pace that finally feels aligned with the life you’ve built.",
+              "You've earned this. Access rare moments, private experiences, and a pace that finally feels aligned with the life you've built.",
             emoji: "🔑",
             align: "left",
             variant: "small",
@@ -2036,13 +2036,13 @@ export const events = [
           {
             type: "text",
             value:
-              "This isn’t just another networking event—it’s your invitation to step into a room where real influence, impact, and growth happen.",
+              "This isn't just another networking event—it's your invitation to step into a room where real influence, impact, and growth happen.",
             variant: "subheading",
           },
           {
             type: "text",
             value:
-              "You’ve built success. But what got you here won’t get you to what’s next. You don’t need another surface-level seminar—you need an exclusive circle of sharp minds who challenge your thinking, expand your vision, and unlock new levels of freedom, wealth, and legacy.",
+              "You've built success. But what got you here won't get you to what's next. You don't need another surface-level seminar—you need an exclusive circle of sharp minds who challenge your thinking, expand your vision, and unlock new levels of freedom, wealth, and legacy.",
             variant: "body",
           },
           {
@@ -2056,7 +2056,7 @@ export const events = [
           },
           {
             type: "button",
-            text: "Explore if you’re a fit",
+            text: "Explore if you're a fit",
             action: "href",
             target:
               "https://meetings.hubspot.com/jessica-carroll1/events?uuid=0eecf81e-3cf5-4347-8551-6607c1c0d6df",
@@ -2522,7 +2522,7 @@ export const events = [
             type: "info-card",
             title: "Elevate Your Business & Legacy",
             description:
-              "Go beyond just growth—break free from burnout and build a business that fuels your future. Learn directly from those who’ve scaled with sanity and created real impact.",
+              "Go beyond just growth—break free from burnout and build a business that fuels your future. Learn directly from those who've scaled with sanity and created real impact.",
             emoji: "🚀",
             align: "left",
             variant: "small",
@@ -2554,9 +2554,9 @@ export const events = [
           },
           {
             type: "info-card",
-            title: "Experience What You’ve Earned",
+            title: "Experience What You've Earned",
             description:
-              "You’ve earned this. Access rare moments, private experiences, and a pace that finally feels aligned with the life you’ve built.",
+              "You've earned this. Access rare moments, private experiences, and a pace that finally feels aligned with the life you've built.",
             emoji: "🔑",
             align: "left",
             variant: "small",
@@ -2595,13 +2595,13 @@ export const events = [
             items: [
               {
                 text: "Mexico",
-                image: "/cincinnati/mexico-thumbnail.jpg",
+                image: "/malibu/mexico-thumbnail.jpg",
                 action: "modal",
                 target: "mexico-video",
               },
               {
                 text: "Idaho",
-                image: "/cincinnati/idaho-thumbnail.jpg",
+                image: "/malibu/idaho-thumbnail.jpg",
                 action: "modal",
                 target: "idaho-video",
               },
@@ -2633,7 +2633,7 @@ export const events = [
             title: "🔥 Hot Seat Sessions",
             description:
               "Get laser-focused feedback on your biggest business challenges in a safe, no-judgment zone. Your new inner circle will help you untangle roadblocks and accelerate what matters most.",
-            image: "/cincinnati/info-cards/Hot Seat.JPG",
+            image: "/malibu/info-cards/Hot Seat.JPG",
             align: "left",
             background: {
               type: "color",
@@ -2648,7 +2648,7 @@ export const events = [
             title: "🧠 Expert-Led Insights",
             description:
               "Learn directly from top-tier thinkers in Efficiency, AI, Team Culture, Marketing, Health, and beyond. These intimate, interactive sessions aren't about theory—they're about what works now.",
-            image: "/cincinnati/info-cards/Expert Led Sessions .jpeg",
+            image: "/malibu/info-cards/Expert Led Sessions.jpeg",
             align: "right",
             background: {
               type: "color",
@@ -2660,10 +2660,10 @@ export const events = [
           },
           {
             type: "info-card",
-            title: "⚾ Leadership Q&As with Reds Executives",
+            title: "🌊 Oceanfront Strategy Sessions",
             description:
-              "Step behind the scenes with the General Manager, President & COO of the Cincinnati Reds. Gain rare insight into how elite organizations build legacies, lead through change, and perform under pressure.",
-            image: "/cincinnati/info-cards/Q A w_ president and COO .jpeg",
+              "Collaborate with industry leaders in an inspiring oceanfront setting. Gain fresh perspectives on business challenges while enjoying breathtaking Pacific Ocean views.",
+            image: "/malibu/info-cards/Oceanfront Strategy.jpeg",
             align: "left",
             background: {
               type: "color",
@@ -2675,10 +2675,10 @@ export const events = [
           },
           {
             type: "info-card",
-            title: "⚡ On-Field & Batting Cage Access",
+            title: "⚡ Wellness & Performance Optimization",
             description:
-              "Experience what it feels like to be on the field—literally. Step into the shoes of legends with on-field batting practice and alumni pitching cages. It's success, but with a spark of childhood joy.",
-            image: "/cincinnati/info-cards/Bob and Nick .JPG",
+              "Experience peak performance coaching in Malibu's natural setting. Learn from wellness experts while enjoying morning beach walks and mindfulness sessions.",
+            image: "/malibu/info-cards/Wellness Sessions.JPG",
             align: "right",
             background: {
               type: "color",
@@ -2690,10 +2690,10 @@ export const events = [
           },
           {
             type: "info-card",
-            title: "🏆 Private Reds Hall of Fame Tour",
+            title: "🏆 Private Luxury Experiences",
             description:
-              "Go deeper into legacy-building with an exclusive tour of the Reds Hall of Fame, led by one of the franchise's founders. Relive history and reconnect to purpose.",
-            image: "/cincinnati/info-cards/hall of fame Reds  (1).jpg",
+              "Access exclusive Malibu venues and experiences reserved for high achievers. Connect with peers in world-class settings that inspire innovation and collaboration.",
+            image: "/malibu/info-cards/Luxury Experiences.jpg",
             align: "left",
             background: {
               type: "color",
@@ -2708,7 +2708,7 @@ export const events = [
             title: "🍽️ Curated Connections Over Dinner",
             description:
               "Network without the name tags. Build real relationships during upscale, intimate dinners designed for honest conversation and meaningful connection.",
-            image: "/cincinnati/info-cards/Dinner  (1).jpg",
+            image: "/malibu/info-cards/Dinner.jpg",
             align: "right",
             background: {
               type: "color",
@@ -2720,10 +2720,10 @@ export const events = [
           },
           {
             type: "info-card",
-            title: "🎯 VIP Game Viewing: Executive Suite Experience",
+            title: "🎯 VIP Oceanfront Experience",
             description:
-              "Savor the freedom-driven lifestyle you've earned - surrounded by peers who know what it takes to get there. Watch the game in VIP style from a private executive suite alongside the President and COO of the Cincinnati Reds-beer in hand, a gourmet dinner at your side, and Elly De La Cruz sending one over the fence.",
-            image: "/cincinnati/info-cards/VIP Game Viewing .jpg",
+              "Savor the freedom-driven lifestyle you've earned - surrounded by peers who know what it takes to get there. Enjoy private beach access, sunset cocktails, and transformative conversations with the Pacific as your backdrop.",
+            image: "/malibu/info-cards/VIP Oceanfront Experience.jpg",
             align: "left",
             background: {
               type: "color",
@@ -2747,25 +2747,25 @@ export const events = [
             },
             {
               type: "hex",
-              value: "#C6011F",
+              value: "#484c6c",
             },
           ],
         },
         content: [
           {
             type: "text",
-            value: "Experience Baseball's Historic Birthplace",
+            value: "Experience Malibu's Stunning Coastline",
             variant: "heading",
           },
           {
             type: "text",
             value:
-              "Great American Ball Park isn't just a ballpark; it's the birthplace of professional baseball history. Home to the Cincinnati Reds—the first professional baseball team established in 1869—this stadium resonates with legacy, leadership, and longevity.",
+              "Malibu offers breathtaking Pacific Ocean views and world-class luxury venues. This exclusive coastal location provides the perfect backdrop for transformative business conversations and networking with like-minded visionaries.",
             variant: "body",
           },
           {
             type: "image",
-            value: "/cincinnati/Reds stadium .jpg",
+            value: "/malibu/oceanfront-venue.jpg",
           },
         ],
       },
@@ -2776,7 +2776,7 @@ export const events = [
           value: [
             {
               type: "hex",
-              value: "#C6011F",
+              value: "#484c6c",
             },
             {
               type: "brand",
@@ -2800,28 +2800,28 @@ export const events = [
               {
                 name: "Chip Conley",
                 title: "Hospitality Pioneer & Airbnb Strategic Advisor",
-                image: "/cincinnati/speakers/chip-conley.jpeg",
+                image: "/malibu/speakers/chip-conley.jpeg",
                 description:
                   "New York Times bestselling author Chip Conley is the hospitality maverick who helped Airbnb's founders turn their fast-growing tech start-up into the global hospitality brand.",
               },
               {
                 name: "Mike Koenigs",
                 title: "Marketing Expert & Business Growth Strategist",
-                image: "/cincinnati/speakers/mike-koenigs.jpeg",
+                image: "/malibu/speakers/mike-koenigs.jpeg",
                 description:
                   "Mike Koenigs is a 13-time #1 bestselling author, 'Marketer of the Year', and serial entrepreneur best known for turning business owners into Transformational Business Celebrity Influencers.",
               },
               {
                 name: "Marissa Andrada",
                 title: "Corporate Leadership & Culture Expert",
-                image: "/cincinnati/speakers/marissa-andrada.jpeg",
+                image: "/malibu/speakers/marissa-andrada.jpeg",
                 description:
                   "Krispy Kreme's Independent Board Director & former Chipotle CHRO, Marissa Andrada is a people-focused thought leader. She excels in strategy, talent development, and navigating founder/CEO transitions.",
               },
               {
                 name: "Blake Eastman",
                 title: "Behavioral Scientist & Leadership Coach",
-                image: "/cincinnati/speakers/blake-eastman.jpeg",
+                image: "/malibu/speakers/blake-eastman.jpeg",
                 description:
                   "Behavioral scientist Blake Eastman helps CEOs, entrepreneurs, and executives craft a customized style of behavioral leadership. He is the founder of The Nonverbal Group and former adjunct psychology professor at the City University of New York.",
               },
@@ -2852,35 +2852,35 @@ export const events = [
                   "Attending the Baja OG event was truly transformative. I formed deep connections with inspiring individuals and gained invaluable insights that have already made a lasting impact. In fact, just one week after the event, I launched a new business with one of my OG connections! Every aspect of the experience was thoughtfully curated, set against an absolutely breathtaking backdrop. I can't recommend it highly enough!",
                 name: "Jason Mewis",
                 role: "President & Founder @ Engcomp",
-                avatar: "/cincinnati/testimonials/jason-mewis.jpeg",
+                avatar: "/malibu/testimonials/jason-mewis.jpeg",
               },
               {
                 quote:
                   "The power of Hot Seats is exponential when you bring talented people together who share openly, with great vulnerability, their thought leadership and openly ask for help. It's hard, frankly, for anyone to ask for help. At the OG Retreat, there's so much talent in the room. To pay any one of these people to consult with you for a day is priceless, but to get all this together in one room, weighing in, elevates the impact.",
                 name: "Robert S. Castellini",
                 role: "Managing Director - Investments @ Wells Fargo",
-                avatar: "/cincinnati/testimonials/robert-castellini.png",
+                avatar: "/malibu/testimonials/robert-castellini.png",
               },
               {
                 quote:
                   "I came to this OG Retreat because I really needed a vacation with other ambitious entrepreneurs—it's all about that social connection and stimulating conversations. I'm weird and it's hard to find really solid connections with people because of the position that I'm in my work. But here I was, surrounded by people who get me.",
                 name: "Dan Guido",
                 role: "CEO & Co-Foundern of Trail of Bits - Cybersecurity Firm",
-                avatar: "/cincinnati/testimonials/dan-guido.jpg",
+                avatar: "/malibu/testimonials/dan-guido.jpg",
               },
               {
                 quote:
-                  "This mastermind gave me clear direction and actionable strategies to finally hit my business goals that I've been putting on paper but haven't been able to achieve. I believe the techniques and strategies that I've learned here today will 10x my growth in just one year.",
+                  "This mastermind gave me clear direction and actionable strategies to finally hit my business goals that I've been putting on paper but haven't been able of achieve. I believe the techniques and strategies that I've learned here today will 10x my growth in just one year.",
                 name: "Dr. Donald Shrump",
                 role: "Sports Performance Coach w/ a roster of top athletes like Novak Djokovic",
-                avatar: "/cincinnati/testimonials/donald-shrump.png",
+                avatar: "/malibu/testimonials/donald-shrump.png",
               },
               {
                 quote:
                   "Nick does a great job putting together these events and really bringing some some legitimate experts in their field. Every time I come to a leverage event, I'm always learning some really incredible stuff. Leverages businesses at optimization. I learned strategies to save a second here, a minute there, an hour here, and really cut down and become more efficient and optimize my business.",
                 name: "Josh Martin",
                 role: "Former Pro NFL player - Owner of Smoothie King Franchises",
-                avatar: "/cincinnati/testimonials/josh-martin.png",
+                avatar: "/malibu/testimonials/josh-martin.png",
               },
             ],
           },
@@ -2983,7 +2983,7 @@ export const events = [
             type: "text",
             value: (
               <>
-                Who this event is <span style={{ color: "#C6011F" }}>NOT</span>{" "}
+                Who this event is <span style={{ color: "#484c6c" }}>NOT</span>{" "}
                 for
               </>
             ),
@@ -3080,7 +3080,7 @@ export const events = [
           value: [
             {
               type: "hex",
-              value: "#C6011F",
+              value: "#484c6c",
             },
             {
               type: "brand",
@@ -3101,13 +3101,13 @@ export const events = [
           {
             type: "text",
             value:
-              "This isn’t just another networking event—it’s your invitation to step into a room where real influence, impact, and growth happen.",
+              "This isn't just another networking event—it's your invitation to step into a room where real influence, impact, and growth happen.",
             variant: "subheading",
           },
           {
             type: "text",
             value:
-              "You’ve built success. But what got you here won’t get you to what’s next. You don’t need another surface-level seminar—you need an exclusive circle of sharp minds who challenge your thinking, expand your vision, and unlock new levels of freedom, wealth, and legacy.",
+              "You've built success. But what got you here won't get you to what's next. You don't need another surface-level seminar—you need an exclusive circle of sharp minds who challenge your thinking, expand your vision, and unlock new levels of freedom, wealth, and legacy.",
             variant: "body",
           },
           {
@@ -3121,7 +3121,7 @@ export const events = [
           },
           {
             type: "button",
-            text: "Explore if you’re a fit",
+            text: "Explore if you're a fit",
             action: "href",
             target:
               "https://meetings.hubspot.com/jessica-carroll1/events?uuid=0eecf81e-3cf5-4347-8551-6607c1c0d6df",
