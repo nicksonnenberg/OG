@@ -2552,7 +2552,7 @@ export const events = [
             title: "Prompt Engineering",
             description:
               "Simply tips and tricks to get the most value out of ChatGPT, Claude & Copilot. Simply strategies to 10x your productivity.",
-            emoji: "🚀",
+            emoji: "⚡",
             align: "left",
             variant: "small",
             dark: true,
