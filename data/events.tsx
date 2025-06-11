@@ -2772,28 +2772,28 @@ export const events = [
               {
                 name: "Chip Conley",
                 title: "Hospitality Pioneer & Airbnb Strategic Advisor",
-                image: "/malibu/speakers/chip-conley.jpeg",
+                image: "/Speakers/chip-conley.jpeg",
                 description:
                   "New York Times bestselling author Chip Conley is the hospitality maverick who helped Airbnb's founders turn their fast-growing tech start-up into the global hospitality brand.",
               },
               {
                 name: "Mike Koenigs",
                 title: "Marketing Expert & Business Growth Strategist",
-                image: "/malibu/speakers/mike-koenigs.jpeg",
+                image: "/Speakers/mike-koenigs.jpeg",
                 description:
                   "Mike Koenigs is a 13-time #1 bestselling author, 'Marketer of the Year', and serial entrepreneur best known for turning business owners into Transformational Business Celebrity Influencers.",
               },
               {
                 name: "Marissa Andrada",
                 title: "Corporate Leadership & Culture Expert",
-                image: "/malibu/speakers/marissa-andrada.jpeg",
+                image: "/Speakers/marissa-andrada.jpeg",
                 description:
                   "Krispy Kreme's Independent Board Director & former Chipotle CHRO, Marissa Andrada is a people-focused thought leader. She excels in strategy, talent development, and navigating founder/CEO transitions.",
               },
               {
                 name: "Blake Eastman",
                 title: "Behavioral Scientist & Leadership Coach",
-                image: "/malibu/speakers/blake-eastman.jpeg",
+                image: "/Speakers/blake-eastman.jpeg",
                 description:
                   "Behavioral scientist Blake Eastman helps CEOs, entrepreneurs, and executives craft a customized style of behavioral leadership. He is the founder of The Nonverbal Group and former adjunct psychology professor at the City University of New York.",
               },
