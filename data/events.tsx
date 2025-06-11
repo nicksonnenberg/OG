@@ -2201,10 +2201,10 @@ export const events = [
             value: "Not your typical business event...",
             variant: "heading",
           },
-          {
-            type: "image",
-            value: "/og-group.png",
-          },
+                      {
+              type: "image",
+              value: "/OG-group.png",
+            },
           {
             type: "text",
             value:
