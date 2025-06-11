@@ -2660,7 +2660,7 @@ export const events = [
             title: "🧠 Expert-Led Insights",
             description:
               "Learn directly from top-tier thinkers in Efficiency, AI, Team Culture, Marketing, Health, and beyond. These intimate, interactive sessions aren't about theory—they're about what works now.",
-            image: "Local/malibu/gallery/Expert Led Sessions.jpeg",
+            image: "Local/malibu/gallery/expertLedSessions.jpeg",
             align: "right",
             background: {
               type: "color",
