@@ -2070,10 +2070,10 @@ export const events = [
   {
     id: "Malibu",
     details: {
-      title: "Process Optimization Workshop",
+      title: "AI/Efficiency Workshop",
       subtitle: "Malibu, California",
       location: "Malibu, California",
-      dates: "Sept 10-12, 2025",
+      dates: "Sept 11-12, 2025",
       "preview-image": "/malibu/background.jpg",
     },
     navbar: {
