@@ -481,14 +481,14 @@ export const events = [
               {
                 name: "Chip Conley",
                 title: "Hospitality Pioneer & Airbnb Strategic Advisor",
-                image: "/santa-fe/speakers/chip-conley.jpeg",
+                image: "/general/speakers/chip-conley.jpeg",
                 description:
                   "New York Times bestselling author Chip Conley is the hospitality maverick who helped Airbnb's founders turn their fast-growing tech start-up into the global hospitality brand.",
               },
               {
                 name: "Mike Koenigs",
                 title: "Marketing Expert & Business Growth Strategist",
-                image: "/santa-fe/speakers/mike-koenigs.jpeg",
+                image: "/general/speakers/mike-koenigs.jpeg",
                 description:
                   "Mike Koenigs is a 13-time #1 bestselling author, 'Marketer of the Year', and serial entrepreneur best known for turning business owners into Transformational Business Celebrity Influencers.",
               },
@@ -2074,7 +2074,7 @@ export const events = [
       subtitle: "Malibu, California",
       location: "Malibu, California",
       dates: "Sept 11-12, 2025",
-      "preview-image": "/malibu/gallery/background.jpg",
+      "preview-image": "/Local/malibu/gallery/background.jpg",
     },
     navbar: {
       title: "OG EVENTS",
@@ -2114,7 +2114,7 @@ export const events = [
     heroSection: {
       background: {
         type: "image",
-        value: "/malibu/gallery/background.jpg",
+        value: "Local/malibu/gallery/background.jpg",
       },
       overlay: {
         type: "gradient",
