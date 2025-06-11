@@ -2562,6 +2562,8 @@ export const events = [
                 type: "hex",
                 value: "#2A2A2A",
               },
+            },
+          },
           {
             type: "info-card",
             title: "Process Optimization",
