@@ -2723,7 +2723,7 @@ export const events = [
             title: "🎯 VIP Oceanfront Experience",
             description:
               "Savor the freedom-driven lifestyle you've earned - surrounded by peers who know what it takes to get there. Enjoy private beach access, sunset cocktails, and transformative conversations with the Pacific as your backdrop.",
-            image: "/malibu/info-cards/VIP Oceanfront Experience.jpg",
+            image: "/Local/malibu/gallery/background.jpg",
             align: "left",
             background: {
               type: "color",
@@ -2765,7 +2765,7 @@ export const events = [
           },
           {
             type: "image",
-            value: "/malibu/oceanfront-venue.jpg",
+            value: "Local/malibu/gallery/background.jpg",
           },
         ],
       },
