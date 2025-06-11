@@ -2662,8 +2662,8 @@ export const events = [
             type: "info-card",
             title: "Magical Experience",
             description:
-              "a.",
-            image: "/Local/malibu/what-to-expect/relationships.jpg",
+              "A private magic show with top performers from the Magic Castle (a members-only mansion in Hollywood",
+            image: "/Local/malibu/gallery/magic.JPG",
             align: "left",
             background: {
               type: "color",
@@ -2680,7 +2680,7 @@ export const events = [
             title: "🍽️ Curated Connections Over Dinner",
             description:
               "Network without the name tags. Build real relationships during upscale, intimate dinners designed for honest conversation and meaningful connection.",
-            image: "/malibu/info-cards/Dinner.jpg",
+            image: "/Workshops/what-to-expect/relationships.jpg",
             align: "right",
             background: {
               type: "color",
