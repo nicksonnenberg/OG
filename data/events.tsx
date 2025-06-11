@@ -2230,7 +2230,7 @@ export const events = [
               },
               {
                 type: "text",
-                value: "Exclusive Malibu oceanfront venue +",
+                value: "Learn the latest in AI and Automation",
                 variant: "list-item",
                 align: "left",
               },
@@ -2312,7 +2312,7 @@ export const events = [
               },
               {
                 type: "text",
-                value: "Then we move to the next person — and repeat.",
+                value: "Learn about the latest in AI Agents.",
                 variant: "list-item",
                 align: "left",
               },
@@ -2510,17 +2510,17 @@ export const events = [
           {
             type: "text",
             value:
-              "Join the Circle of Leaders Who Are Redefining What Success Looks Like",
+              "Topics",
             variant: "heading",
           },
           {
             type: "text",
-            value: "May 22 & 23, 2025",
+            value: "(subject to change)",
             variant: "subheading",
           },
           {
             type: "info-card",
-            title: "Elevate Your Business & Legacy",
+            title: "AI Agents",
             description:
               "Go beyond just growth—break free from burnout and build a business that fuels your future. Learn directly from those who've scaled with sanity and created real impact.",
             emoji: "🚀",
