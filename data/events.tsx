@@ -2203,7 +2203,7 @@ export const events = [
           },
           {
             type: "image",
-            value: "/malibu/og-group.png",
+            value: "/og-group.png",
           },
           {
             type: "text",
