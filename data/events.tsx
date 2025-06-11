@@ -2074,7 +2074,7 @@ export const events = [
       subtitle: "Malibu, California",
       location: "Malibu, California",
       dates: "Sept 11-12, 2025",
-      "preview-image": "/malibu/background.jpg",
+      "preview-image": "/malibu/gallery/background.jpg",
     },
     navbar: {
       title: "OG EVENTS",
@@ -2114,7 +2114,7 @@ export const events = [
     heroSection: {
       background: {
         type: "image",
-        value: "/malibu/background.jpg",
+        value: "/malibu/gallery/background.jpg",
       },
       overlay: {
         type: "gradient",
@@ -2203,7 +2203,7 @@ export const events = [
           },
           {
             type: "image",
-            value: "/malibu/Group OG .JPG",
+            value: "/malibu/og-group.png",
           },
           {
             type: "text",
