@@ -3062,24 +3062,13 @@ export const events = [
         content: [
           {
             type: "text",
-            value: "Ready to Join the Elite Circle of Game-Changers?",
+            value: "Ready to AI-ify your business?",
             variant: "heading",
           },
+
           {
             type: "text",
-            value:
-              "This isn't just another networking event—it's your invitation to step into a room where real influence, impact, and growth happen.",
-            variant: "subheading",
-          },
-          {
-            type: "text",
-            value:
-              "You've built success. But what got you here won't get you to what's next. You don't need another surface-level seminar—you need an exclusive circle of sharp minds who challenge your thinking, expand your vision, and unlock new levels of freedom, wealth, and legacy.",
-            variant: "body",
-          },
-          {
-            type: "text",
-            value: "Book your call with Jessica and apply today:",
+            value: "Book your call to see if you're a fit:",
             variant: "body",
             color: {
               type: "brand",
