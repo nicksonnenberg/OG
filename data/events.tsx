@@ -2522,7 +2522,41 @@ export const events = [
             type: "info-card",
             title: "AI Agents",
             description:
-              "Go beyond just growth—break free from burnout and build a business that fuels your future. Learn directly from those who've scaled with sanity and created real impact.",
+              "Nick's going to pull back the curtain on the new agents he's been building (including the Executive Assistant Agent).",
+            emoji: "🤖",
+            align: "left",
+            variant: "small",
+            dark: true,
+            background: {
+              type: "color",
+              value: {
+                type: "hex",
+                value: "#2A2A2A",
+              },
+            },
+          },
+          {
+            type: "info-card",
+            title: "Automation",
+            description:
+              "What parts of your business can be automated and put on autopilot?  Discussions on tools like Zapier, Make, n8n, and more.",
+            emoji: "⚙️",
+            align: "left",
+            variant: "small",
+            dark: true,
+            background: {
+              type: "color",
+              value: {
+                type: "hex",
+                value: "#2A2A2A",
+              },
+            },
+          },
+          {
+            type: "info-card",
+            title: "Prompt Engineering",
+            description:
+              "Simply tips and tricks to get the most value out of ChatGPT, Claude & Copilot. Simply strategies to 10x your productivity.",
             emoji: "🚀",
             align: "left",
             variant: "small",
@@ -2533,31 +2567,12 @@ export const events = [
                 type: "hex",
                 value: "#2A2A2A",
               },
-            },
-          },
           {
             type: "info-card",
-            title: "Forge Your Inner Circle",
+            title: "Process Optimization",
             description:
-              "No more doing it alone at the top. Step into a room where the pressure fades and the right people get you. Forge relationships that spark clarity, collaboration, and lifelong growth.",
-            emoji: "🤝",
-            align: "left",
-            variant: "small",
-            dark: true,
-            background: {
-              type: "color",
-              value: {
-                type: "hex",
-                value: "#2A2A2A",
-              },
-            },
-          },
-          {
-            type: "info-card",
-            title: "Experience What You've Earned",
-            description:
-              "You've earned this. Access rare moments, private experiences, and a pace that finally feels aligned with the life you've built.",
-            emoji: "🔑",
+              "Learn about the latest tools and strategies to optimize your specific business processes.",
+            emoji: "🚀",
             align: "left",
             variant: "small",
             dark: true,
