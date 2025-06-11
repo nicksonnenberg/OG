@@ -533,35 +533,35 @@ export const events = [
                   "Attending the Baja OG event was truly transformative. I formed deep connections with inspiring individuals and gained invaluable insights that have already made a lasting impact. In fact, just one week after the event, I launched a new business with one of my OG connections! Every aspect of the experience was thoughtfully curated, set against an absolutely breathtaking backdrop. I can't recommend it highly enough!",
                 name: "Jason Mewis",
                 role: "President & Founder @ Engcomp",
-                avatar: "/santa-fe/testimonials/jason-mewis.jpeg",
+                avatar: "/Workshops/testimonials/jason-mewis.jpeg",
               },
               {
                 quote:
                   "The power of Hot Seats is exponential when you bring talented people together who share openly, with great vulnerability, their thought leadership and openly ask for help. It's hard, frankly, for anyone to ask for help. At the OG Retreat, there's so much talent in the room. To pay any one of these people to consult with you for a day is priceless, but to get all this together in one room, weighing in, elevates the impact.",
                 name: "Robert S. Castellini",
                 role: "Managing Director - Investments @ Wells Fargo",
-                avatar: "/santa-fe/testimonials/robert-castellini.png",
+                avatar: "/Workshops/testimonials/robert-castellini.png",
               },
               {
                 quote:
                   "I came to this OG Retreat because I really needed a vacation with other ambitious entrepreneurs—it's all about that social connection and stimulating conversations. I'm weird and it's hard to find really solid connections with people because of the position that I'm in my work. But here I was, surrounded by people who get me.",
                 name: "Dan Guido",
                 role: "CEO & Co-Foundern of Trail of Bits - Cybersecurity Firm",
-                avatar: "/santa-fe/testimonials/dan-guido.jpg",
+                avatar: "/Workshops/testimonials/dan-guido.jpg",
               },
               {
                 quote:
                   "This mastermind gave me clear direction and actionable strategies to finally hit my business goals that I've been putting on paper but haven't been able to achieve. I believe the techniques and strategies that I've learned here today will 10x my growth in just one year.",
                 name: "Dr. Donald Shrump",
                 role: "Sports Performance Coach w/ a roster of top athletes like Novak Djokovic",
-                avatar: "/santa-fe/testimonials/donald-shrump.png",
+                avatar: "/Workshops/testimonials/donald-shrump.png",
               },
               {
                 quote:
                   "Nick does a great job putting together these events and really bringing some some legitimate experts in their field. Every time I come to a leverage event, I'm always learning some really incredible stuff. Leverages businesses at optimization. I learned strategies to save a second here, a minute there, an hour here, and really cut down and become more efficient and optimize my business.",
                 name: "Josh Martin",
                 role: "Former Pro NFL player - Owner of Smoothie King Franchises",
-                avatar: "/santa-fe/testimonials/josh-martin.png",
+                avatar: "/Workshops/testimonials/josh-martin.png",
               },
             ],
           },
@@ -1217,7 +1217,7 @@ export const events = [
               "I'm hard to impress... but the last workshop was different. It gave me the intellectual capital I needed — a place to talk things through and get to the answer. That space alone was invaluable.",
             name: "Bryan Lowrie",
             role: "CEO/President @ SEKO Logistics",
-            avatar: "/cincinnati/testimonials/bryan-lowrie.jpg",
+            avatar: "/Workshops/testimonials/bryan-lowrie.jpg",
             extraLarge: true,
           },
           {
@@ -1273,7 +1273,7 @@ export const events = [
               "I was a ChatGPT super user before this event — and I walked away with tools and strategies I had never seen before. I started implementing them while I was there.",
             name: "Kelly Bianucci",
             role: "Acquisition Entrepreneur",
-            avatar: "/cincinnati/testimonials/kelly-bianucci.jpg",
+            avatar: "/Workshops/testimonials/kelly-bianucci.jpg",
             extraLarge: true,
           },
           {
@@ -1326,7 +1326,7 @@ export const events = [
             quote: "The retreat wasn't full of fluff or surface-level stuff. It was real people, sharing real challenges — and solving them together.",
             name: "Max Dembow",
             role: "Partner @ Kaizen Planning & Wealth Management",
-            avatar: "/cincinnati/testimonials/max-dembow.jpg",
+            avatar: "/Workshops/testimonials/max-dembow.jpg",
             extraLarge: true,
           },
           {
@@ -1787,35 +1787,35 @@ export const events = [
                   "Attending the Baja OG event was truly transformative. I formed deep connections with inspiring individuals and gained invaluable insights that have already made a lasting impact. In fact, just one week after the event, I launched a new business with one of my OG connections! Every aspect of the experience was thoughtfully curated, set against an absolutely breathtaking backdrop. I can't recommend it highly enough!",
                 name: "Jason Mewis",
                 role: "President & Founder @ Engcomp",
-                avatar: "/cincinnati/testimonials/jason-mewis.jpeg",
+                avatar: "/Workshops/testimonials/jason-mewis.jpeg",
               },
               {
                 quote:
                   "The power of Hot Seats is exponential when you bring talented people together who share openly, with great vulnerability, their thought leadership and openly ask for help. It's hard, frankly, for anyone to ask for help. At the OG Retreat, there's so much talent in the room. To pay any one of these people to consult with you for a day is priceless, but to get all this together in one room, weighing in, elevates the impact.",
                 name: "Robert S. Castellini",
                 role: "Managing Director - Investments @ Wells Fargo",
-                avatar: "/cincinnati/testimonials/robert-castellini.png",
+                avatar: "/Workshops/testimonials/robert-castellini.png",
               },
               {
                 quote:
                   "I came to this OG Retreat because I really needed a vacation with other ambitious entrepreneurs—it's all about that social connection and stimulating conversations. I'm weird and it's hard to find really solid connections with people because of the position that I'm in my work. But here I was, surrounded by people who get me.",
                 name: "Dan Guido",
                 role: "CEO & Co-Foundern of Trail of Bits - Cybersecurity Firm",
-                avatar: "/cincinnati/testimonials/dan-guido.jpg",
+                avatar: "/Workshops/testimonials/dan-guido.jpg",
               },
               {
                 quote:
-                  "This mastermind gave me clear direction and actionable strategies to finally hit my business goals that I've been putting on paper but haven't been able to achieve. I believe the techniques and strategies that I've learned here today will 10x my growth in just one year.",
+                  "This mastermind gave me clear direction and actionable strategies to finally hit my business goals that I've been putting on paper but haven't been able of achieve. I believe the techniques and strategies that I've learned here today will 10x my growth in just one year.",
                 name: "Dr. Donald Shrump",
                 role: "Sports Performance Coach w/ a roster of top athletes like Novak Djokovic",
-                avatar: "/cincinnati/testimonials/donald-shrump.png",
+                avatar: "/Workshops/testimonials/donald-shrump.png",
               },
               {
                 quote:
                   "Nick does a great job putting together these events and really bringing some some legitimate experts in their field. Every time I come to a leverage event, I'm always learning some really incredible stuff. Leverages businesses at optimization. I learned strategies to save a second here, a minute there, an hour here, and really cut down and become more efficient and optimize my business.",
                 name: "Josh Martin",
                 role: "Former Pro NFL player - Owner of Smoothie King Franchises",
-                avatar: "/cincinnati/testimonials/josh-martin.png",
+                avatar: "/Workshops/testimonials/josh-martin.png",
               },
             ],
           },
@@ -2387,7 +2387,7 @@ export const events = [
         quote: "The retreat wasn't full of fluff or surface-level stuff. It was real people, sharing real challenges — and solving them together.",
         name: "Max Dembow",
         role: "Partner @ Kaizen Planning & Wealth Management",
-                avatar: "/Workshops/testimonials/max-dembow.jpg",
+        avatar: "/Workshops/testimonials/max-dembow.jpg",
         extraLarge: true,
       },
       {
@@ -2595,13 +2595,13 @@ export const events = [
             items: [
               {
                 text: "Mexico",
-                image: "/promoVideoThumbnails/mexico-thumbnail.jpg",
+                image: "/Workshops/promoVideoThumbnails/mexico-thumbnail.jpg",
                 action: "modal",
                 target: "mexico-video",
               },
               {
                 text: "Idaho",
-                image: "/promoVideoThumbnails/idaho-thumbnail.jpg",
+                image: "/Workshops/promoVideoThumbnails/idaho-thumbnail.jpg",
                 action: "modal",
                 target: "idaho-video",
               },
@@ -2633,7 +2633,7 @@ export const events = [
             title: "🔥 Hot Seat Sessions",
             description:
               "Get laser-focused feedback on your biggest business challenges in a safe, no-judgment zone. Your new inner circle will help you untangle roadblocks and accelerate what matters most.",
-            image: "/info-cards/Hot Seat.JPG",
+            image: "/Workshops/info-cards/Hot Seat.JPG",
             align: "left",
             background: {
               type: "color",
@@ -2648,7 +2648,7 @@ export const events = [
             title: "🧠 Expert-Led Insights",
             description:
               "Learn directly from top-tier thinkers in Efficiency, AI, Team Culture, Marketing, Health, and beyond. These intimate, interactive sessions aren't about theory—they're about what works now.",
-            image: "/info-cards/Expert Led Sessions.jpeg",
+            image: "/Workshops/info-cards/Expert Led Sessions.jpeg",
             align: "right",
             background: {
               type: "color",
@@ -2852,35 +2852,35 @@ export const events = [
                   "Attending the Baja OG event was truly transformative. I formed deep connections with inspiring individuals and gained invaluable insights that have already made a lasting impact. In fact, just one week after the event, I launched a new business with one of my OG connections! Every aspect of the experience was thoughtfully curated, set against an absolutely breathtaking backdrop. I can't recommend it highly enough!",
                 name: "Jason Mewis",
                 role: "President & Founder @ Engcomp",
-                avatar: "/malibu/testimonials/jason-mewis.jpeg",
+                avatar: "/Workshops/testimonials/jason-mewis.jpeg",
               },
               {
                 quote:
                   "The power of Hot Seats is exponential when you bring talented people together who share openly, with great vulnerability, their thought leadership and openly ask for help. It's hard, frankly, for anyone to ask for help. At the OG Retreat, there's so much talent in the room. To pay any one of these people to consult with you for a day is priceless, but to get all this together in one room, weighing in, elevates the impact.",
                 name: "Robert S. Castellini",
                 role: "Managing Director - Investments @ Wells Fargo",
-                avatar: "/malibu/testimonials/robert-castellini.png",
+                avatar: "/Workshops/testimonials/robert-castellini.png",
               },
               {
                 quote:
                   "I came to this OG Retreat because I really needed a vacation with other ambitious entrepreneurs—it's all about that social connection and stimulating conversations. I'm weird and it's hard to find really solid connections with people because of the position that I'm in my work. But here I was, surrounded by people who get me.",
                 name: "Dan Guido",
                 role: "CEO & Co-Foundern of Trail of Bits - Cybersecurity Firm",
-                avatar: "/malibu/testimonials/dan-guido.jpg",
+                avatar: "/Workshops/testimonials/dan-guido.jpg",
               },
               {
                 quote:
                   "This mastermind gave me clear direction and actionable strategies to finally hit my business goals that I've been putting on paper but haven't been able of achieve. I believe the techniques and strategies that I've learned here today will 10x my growth in just one year.",
                 name: "Dr. Donald Shrump",
                 role: "Sports Performance Coach w/ a roster of top athletes like Novak Djokovic",
-                avatar: "/malibu/testimonials/donald-shrump.png",
+                avatar: "/Workshops/testimonials/donald-shrump.png",
               },
               {
                 quote:
                   "Nick does a great job putting together these events and really bringing some some legitimate experts in their field. Every time I come to a leverage event, I'm always learning some really incredible stuff. Leverages businesses at optimization. I learned strategies to save a second here, a minute there, an hour here, and really cut down and become more efficient and optimize my business.",
                 name: "Josh Martin",
                 role: "Former Pro NFL player - Owner of Smoothie King Franchises",
-                avatar: "/malibu/testimonials/josh-martin.png",
+                avatar: "/Workshops/testimonials/josh-martin.png",
               },
             ],
           },
