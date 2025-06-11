@@ -2701,21 +2701,7 @@ export const events = [
               },
             },
           },
-          {
-            type: "info-card",
-            title: "🎯 VIP Oceanfront Experience",
-            description:
-              "Savor the freedom-driven lifestyle you've earned - surrounded by peers who know what it takes to get there. Enjoy private beach access, sunset cocktails, and transformative conversations with the Pacific as your backdrop.",
-            image: "/Local/malibu/gallery/Malibu Coast Stock Image.jpg",
-            align: "left",
-            background: {
-              type: "color",
-              value: {
-                type: "brand",
-                value: "white",
-              },
-            },
-          },
+ 
         ],
       },
       {
