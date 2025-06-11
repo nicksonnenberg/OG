@@ -2143,7 +2143,7 @@ export const events = [
         },
         {
           type: "text",
-          value: "PROCESS OPTIMIZATION WORKSHOP",
+          value: "AI + Efficiency WORKSHOP",
           variant: "hero-heading",
         },
         {
@@ -2153,12 +2153,12 @@ export const events = [
         },
         {
           type: "text",
-          value: "Luxury Oceanfront Venue, Malibu, California",
+          value: "Malibu, California",
           variant: "hero-location",
         },
         {
           type: "text",
-          value: "Sept 10-12, 2025",
+          value: "Sept 11-12, 2025",
           variant: "hero-dates",
         },
         {
@@ -2648,7 +2648,7 @@ export const events = [
             title: "🧠 Expert-Led Insights",
             description:
               "Learn directly from top-tier thinkers in Efficiency, AI, Team Culture, Marketing, Health, and beyond. These intimate, interactive sessions aren't about theory—they're about what works now.",
-            image: "/Workshops/info-cards/Expert Led Sessions.jpeg",
+            image: "Local/malibu/gallery/Expert Led Sessions.jpeg",
             align: "right",
             background: {
               type: "color",
@@ -2660,10 +2660,10 @@ export const events = [
           },
           {
             type: "info-card",
-            title: "🌊 Oceanfront Strategy Sessions",
+            title: "Magical Experience",
             description:
-              "Collaborate with industry leaders in an inspiring oceanfront setting. Gain fresh perspectives on business challenges while enjoying breathtaking Pacific Ocean views.",
-            image: "/malibu/info-cards/Oceanfront Strategy.jpeg",
+              "a.",
+            image: "/Local/malibu/what-to-expect/relationships.jpg",
             align: "left",
             background: {
               type: "color",
@@ -2673,36 +2673,8 @@ export const events = [
               },
             },
           },
-          {
-            type: "info-card",
-            title: "⚡ Wellness & Performance Optimization",
-            description:
-              "Experience peak performance coaching in Malibu's natural setting. Learn from wellness experts while enjoying morning beach walks and mindfulness sessions.",
-            image: "/malibu/info-cards/Wellness Sessions.JPG",
-            align: "right",
-            background: {
-              type: "color",
-              value: {
-                type: "brand",
-                value: "white",
-              },
-            },
-          },
-          {
-            type: "info-card",
-            title: "🏆 Private Luxury Experiences",
-            description:
-              "Access exclusive Malibu venues and experiences reserved for high achievers. Connect with peers in world-class settings that inspire innovation and collaboration.",
-            image: "/malibu/info-cards/Luxury Experiences.jpg",
-            align: "left",
-            background: {
-              type: "color",
-              value: {
-                type: "brand",
-                value: "white",
-              },
-            },
-          },
+        
+ 
           {
             type: "info-card",
             title: "🍽️ Curated Connections Over Dinner",
