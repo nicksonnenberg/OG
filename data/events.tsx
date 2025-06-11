@@ -2268,7 +2268,7 @@ export const events = [
       },
       {
         type: "text",
-                value: "Time is your most limited resource. This three-day intensive is your chance to zoom out, get strategic, and solve what's slowing you down — with a room full of experienced operators and top performers acting as your executive strategy team.",
+                value: "Time is your most limited resource. This two-day intensive is your chance to zoom out, get strategic, and solve what's slowing you down — with a room full of experienced operators and top performers acting as your executive strategy team.",
         variant: "body",
         align: "left",
       },
@@ -2690,7 +2690,7 @@ export const events = [
             title: "🎯 VIP Oceanfront Experience",
             description:
               "Savor the freedom-driven lifestyle you've earned - surrounded by peers who know what it takes to get there. Enjoy private beach access, sunset cocktails, and transformative conversations with the Pacific as your backdrop.",
-            image: "/Local/malibu/gallery/background.jpg",
+            image: "/Local/malibu/gallery/Malibu Coast Stock Image.jpg",
             align: "left",
             background: {
               type: "color",
