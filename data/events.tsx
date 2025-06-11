@@ -2208,7 +2208,7 @@ export const events = [
           {
             type: "text",
             value:
-              "Join an elite group of Entrepreneurs, Executives, and Experts for an exclusive two-day event where visionaries connect and transform their businesses together.",
+              "Join an elite group of Entrepreneurs, Executives, and Experts for an exclusive two-day event.",
             variant: "body",
             align: "left",
           },
@@ -2261,7 +2261,7 @@ export const events = [
           },
           {
             type: "text",
-            value: "This Workshop is designed for one thing: ROT - Return on Time",
+            value: "This Workshop is designed for one thing: 'R.O.T' - Return on Time",
             variant: "paragraph-heading",
             underline: true,
             align: "left",
@@ -2312,7 +2312,7 @@ export const events = [
               },
               {
                 type: "text",
-                value: "Learn about the latest in AI Agents.",
+                value: "Learn about the latest in AI.",
                 variant: "list-item",
                 align: "left",
               },
@@ -2399,7 +2399,7 @@ export const events = [
           },
           {
             type: "text",
-            value: "We keep it small and selective — so every seat is powerful. Past attendees include:",
+            value: "We keep it small and selective. Past attendees include:",
             variant: "body",
             align: "left",
           },
@@ -2415,7 +2415,7 @@ export const events = [
               },
               {
                 type: "text",
-                value: "Fortune 500 Execs from Chipotle, Starbucks, Airbnb",
+                value: "Fortune 500 Execs (ie Chipotle, Starbucks, Airbnb)",
                 variant: "list-item",
                 align: "left",
               },
@@ -2433,22 +2433,17 @@ export const events = [
               },
               {
                 type: "text",
-                value: "Peak-performance coaches (including Novak Djokovic's coach)",
+                value: "World-class peak-performance health experts (including Novak Djokovic's coach)",
                 variant: "list-item",
                 align: "left",
               },
               {
                 type: "text",
-                value: "NFL Players",
+                value: "Business Owners / Entrepreneurs / Founders Leaders of 8- and 9-figure companies",
                 variant: "list-item",
                 align: "left",
               },
-              {
-                type: "text",
-                value: "Founders of 8- and 9-figure companies",
-                variant: "list-item",
-                align: "left",
-              },
+        
             ],
           },
           {
