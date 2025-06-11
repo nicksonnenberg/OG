@@ -2278,7 +2278,7 @@ export const events = [
           "I'm hard to impress... but the last workshop was different. It gave me the intellectual capital I needed — a place to talk things through and get to the answer. That space alone was invaluable.",
         name: "Bryan Lowrie",
         role: "CEO/President @ SEKO Logistics",
-        avatar: "/malibu/testimonials/bryan-lowrie.jpg",
+        avatar: "/Workshops/testimonials/bryan-lowrie.jpg",
         extraLarge: true,
       },
       {
@@ -2334,7 +2334,7 @@ export const events = [
           "I was a ChatGPT super user before this event — and I walked away with tools and strategies I had never seen before. I started implementing them while I was there.",
         name: "Kelly Bianucci",
         role: "Acquisition Entrepreneur",
-                avatar: "/malibu/testimonials/kelly-bianucci.jpg",
+                avatar: "/Workshops/testimonials/kelly-bianucci.jpg",
         extraLarge: true,
       },
       {
@@ -2387,7 +2387,7 @@ export const events = [
         quote: "The retreat wasn't full of fluff or surface-level stuff. It was real people, sharing real challenges — and solving them together.",
         name: "Max Dembow",
         role: "Partner @ Kaizen Planning & Wealth Management",
-                avatar: "/malibu/testimonials/max-dembow.jpg",
+                avatar: "/Workshops/testimonials/max-dembow.jpg",
         extraLarge: true,
       },
       {
@@ -2595,13 +2595,13 @@ export const events = [
             items: [
               {
                 text: "Mexico",
-                image: "/malibu/mexico-thumbnail.jpg",
+                image: "/promoVideoThumbnails/mexico-thumbnail.jpg",
                 action: "modal",
                 target: "mexico-video",
               },
               {
                 text: "Idaho",
-                image: "/malibu/idaho-thumbnail.jpg",
+                image: "/promoVideoThumbnails/idaho-thumbnail.jpg",
                 action: "modal",
                 target: "idaho-video",
               },
@@ -2633,7 +2633,7 @@ export const events = [
             title: "🔥 Hot Seat Sessions",
             description:
               "Get laser-focused feedback on your biggest business challenges in a safe, no-judgment zone. Your new inner circle will help you untangle roadblocks and accelerate what matters most.",
-            image: "/malibu/info-cards/Hot Seat.JPG",
+            image: "/info-cards/Hot Seat.JPG",
             align: "left",
             background: {
               type: "color",
@@ -2648,7 +2648,7 @@ export const events = [
             title: "🧠 Expert-Led Insights",
             description:
               "Learn directly from top-tier thinkers in Efficiency, AI, Team Culture, Marketing, Health, and beyond. These intimate, interactive sessions aren't about theory—they're about what works now.",
-            image: "/malibu/info-cards/Expert Led Sessions.jpeg",
+            image: "/info-cards/Expert Led Sessions.jpeg",
             align: "right",
             background: {
               type: "color",
