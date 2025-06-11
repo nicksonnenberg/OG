@@ -2507,15 +2507,10 @@ export const events = [
       value: "white",
     },
     content: [
+      
       {
         type: "text",
-        value:
-          "Join the Circle of Leaders Who Are Redefining What Success Looks Like",
-        variant: "heading",
-      },
-      {
-        type: "text",
-        value: "Sept 10-12, 2025",
+        value: "Sept 11-12, 2025",
         variant: "subheading",
       },
           {
