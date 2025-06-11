@@ -2201,14 +2201,14 @@ export const events = [
             value: "Not your typical business event...",
             variant: "heading",
           },
-                      {
-              type: "image",
-              value: "/OG-group.png",
-            },
+          {
+            type: "image",
+            value: "/OG-group.png",
+          },
           {
             type: "text",
             value:
-              "Join an elite group of Entrepreneurs, Executives, and Experts for an exclusive three-day event where visionaries connect and transform their businesses together.",
+              "Join an elite group of Entrepreneurs, Executives, and Experts for an exclusive two-day event where visionaries connect and transform their businesses together.",
             variant: "body",
             align: "left",
           },
@@ -2230,289 +2230,288 @@ export const events = [
               },
               {
                 type: "text",
-                            value: "Exclusive Malibu oceanfront venue +",
-            variant: "list-item",
+                value: "Exclusive Malibu oceanfront venue +",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "Collaborative problem-solving +",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "Structured networking opportunities =",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value:
+                  "High-impact event to efficiently optimize your business and personal life.",
+                variant: "list-item",
+                align: "left",
+                color: {
+                  type: "brand",
+                  value: "yellow",
+                },
+              },
+            ],
+          },
+          {
+            type: "text",
+            value: "This Workshop is designed for one thing: ROT - Return on Time",
+            variant: "paragraph-heading",
+            underline: true,
             align: "left",
           },
           {
             type: "text",
-            value: "Collaborative problem-solving +",
-            variant: "list-item",
+            value: "Time is your most limited resource. This two-day intensive is your chance to zoom out, get strategic, and solve what's slowing you down — with a room full of experienced operators and top performers acting as your executive strategy team.",
+            variant: "body",
             align: "left",
           },
           {
-            type: "text",
-            value: "Structured networking opportunities =",
-            variant: "list-item",
-            align: "left",
+            type: "testimonial",
+            quote:
+              "I'm hard to impress... but the last workshop was different. It gave me the intellectual capital I needed — a place to talk things through and get to the answer. That space alone was invaluable.",
+            name: "Bryan Lowrie",
+            role: "CEO/President @ SEKO Logistics",
+            avatar: "/Workshops/testimonials/bryan-lowrie.jpg",
+            extraLarge: true,
           },
           {
             type: "text",
-            value:
-              "High-impact event to efficiently optimize your business and personal life.",
-            variant: "list-item",
+            value: "The Format:",
+            variant: "paragraph-heading",
+            underline: true,
+            align: "left",
+          },
+          {
+            type: "list",
+            variant: "bulleted",
+            items: [
+              {
+                type: "text",
+                value: "You bring a process, challenge, or idea you want to optimize.",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "The group dives in with sharp questions and battle-tested strategies.",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "You leave with clarity, action steps, and momentum.",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "Then we move to the next person — and repeat.",
+                variant: "list-item",
+                align: "left",
+              },
+            ],
+          },
+          {
+            type: "text",
+            value: "Two full days. No fluff. No filler. Just execution.",
+            variant: "body",
             align: "left",
             color: {
               type: "brand",
-              value: "yellow",
+              value: "yellow"
+            }
+          },
+          {
+            type: "testimonial",
+            quote:
+              "I was a ChatGPT super user before this event — and I walked away with tools and strategies I had never seen before. I started implementing them while I was there.",
+            name: "Kelly Bianucci",
+            role: "Acquisition Entrepreneur",
+            avatar: "/Workshops/testimonials/kelly-bianucci.jpg",
+            extraLarge: true,
+          },
+          {
+            type: "text",
+            value: "What You'll Walk Away With:",
+            variant: "paragraph-heading",
+            underline: true,
+            align: "left",
+          },
+          {
+            type: "list",
+            variant: "bulleted",
+            items: [
+              {
+                type: "text",
+                value: <>
+                  <span className="text-brand-yellow">Immediate wins:</span> walk away with your process streamlined and real-time input you can use now,
+                </>,
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: <>
+                  <span className="text-brand-yellow">Big-picture clarity:</span> spot inefficiencies and opportunities that were hiding in plain sight,
+                </>,
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: <>
+                  <span className="text-brand-yellow">Leverage tech smarter:</span> get practical ideas for how to use AI and automation in your workflows,
+                </>,
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: <>
+                  <span className="text-brand-yellow">A mindset shift</span> that helps you see what's possible — and how to get there faster,
+                </>,
+                variant: "list-item",
+                align: "left",
+              },
+            ],
+          },
+          {
+            type: "testimonial",
+            quote: "The retreat wasn't full of fluff or surface-level stuff. It was real people, sharing real challenges — and solving them together.",
+            name: "Max Dembow",
+            role: "Partner @ Kaizen Planning & Wealth Management",
+            avatar: "/Workshops/testimonials/max-dembow.jpg",
+            extraLarge: true,
+          },
+          {
+            type: "text",
+            value: "Who's In the Room?",
+            variant: "paragraph-heading",
+            underline: true,
+            align: "left",
+          },
+          {
+            type: "text",
+            value: "We keep it small and selective — so every seat is powerful. Past attendees include:",
+            variant: "body",
+            align: "left",
+          },
+          {
+            type: "list",
+            variant: "bulleted",
+            items: [
+              {
+                type: "text",
+                value: "NYT Bestselling Authors",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "Fortune 500 Execs from Chipotle, Starbucks, Airbnb",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "Top cybersecurity experts and elite hackers",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "Leaders in AI, automation, and innovation",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "Peak-performance coaches (including Novak Djokovic's coach)",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "NFL Players",
+                variant: "list-item",
+                align: "left",
+              },
+              {
+                type: "text",
+                value: "Founders of 8- and 9-figure companies",
+                variant: "list-item",
+                align: "left",
+              },
+            ],
+          },
+          {
+            type: "text",
+            value: "Bottom Line:",
+            variant: "paragraph-heading",
+            underline: true,
+            align: "left",
+          },
+          {
+            type: "text",
+            value: <>This is for leaders who want to <u><strong>scale smarter</strong></u>.</>,
+            variant: "body",
+            align: "left",
+          },
+          {
+            type: "text",
+            value: "You'll leave with optimized systems, better tools, and sharper strategies, so you can make faster decisions, delegate more confidently, and get a higher return on your most valuable asset:",
+            variant: "body",
+            align: "left",
+          },
+          {
+            type: "text",
+            value: "TIME",
+            variant: "huge-body",
+            animatedUnderline: true,
+            align: "left",
+            color: {
+              type: "brand",
+              value: "yellow"
+            }
+          }
+        ],
+      },
+      {
+        id: "benefits",
+        background: {
+          type: "gradient",
+          value: [
+            {
+              type: "hex",
+              value: "#484c6c",
             },
-          },
-        ],
-      },
-      {
-        type: "text",
-        value: "This Workshop is designed for one thing: ROT - Return on Time",
-        variant: "paragraph-heading",
-        underline: true,
-        align: "left",
-      },
-      {
-        type: "text",
-                value: "Time is your most limited resource. This two-day intensive is your chance to zoom out, get strategic, and solve what's slowing you down — with a room full of experienced operators and top performers acting as your executive strategy team.",
-        variant: "body",
-        align: "left",
-      },
-      {
-        type: "testimonial",
-        quote:
-          "I'm hard to impress... but the last workshop was different. It gave me the intellectual capital I needed — a place to talk things through and get to the answer. That space alone was invaluable.",
-        name: "Bryan Lowrie",
-        role: "CEO/President @ SEKO Logistics",
-        avatar: "/Workshops/testimonials/bryan-lowrie.jpg",
-        extraLarge: true,
-      },
-      {
-        type: "text",
-        value: "The Format:",
-        variant: "paragraph-heading",
-        underline: true,
-        align: "left",
-      },
-      {
-        type: "list",
-        variant: "bulleted",
-        items: [
-          {
-            type: "text",
-            value: "You bring a process, challenge, or idea you want to optimize.",
-            variant: "list-item",
-            align: "left",
-          },
-          {
-            type: "text",
-            value: "The group dives in with sharp questions and battle-tested strategies.",
-            variant: "list-item",
-            align: "left",
-          },
-          {
-            type: "text",
-            value: "You leave with clarity, action steps, and momentum.",
-            variant: "list-item",
-            align: "left",
-          },
-          {
-            type: "text",
-            value: "Then we move to the next person — and repeat.",
-            variant: "list-item",
-            align: "left",
-          },
-        ],
-      },
-      {
-        type: "text",
-        value: "Three full days. No fluff. No filler. Just execution.",
-        variant: "body",
-        align: "left",
-        color: {
-          type: "brand",
-          value: "yellow"
-        }
-      },
-      {
-        type: "testimonial",
-        quote:
-          "I was a ChatGPT super user before this event — and I walked away with tools and strategies I had never seen before. I started implementing them while I was there.",
-        name: "Kelly Bianucci",
-        role: "Acquisition Entrepreneur",
-                avatar: "/Workshops/testimonials/kelly-bianucci.jpg",
-        extraLarge: true,
-      },
-      {
-        type: "text",
-        value: "What You'll Walk Away With:",
-        variant: "paragraph-heading",
-        underline: true,
-        align: "left",
-      },
-      {
-        type: "list",
-        variant: "bulleted",
-        items: [
-          {
-            type: "text",
-            value: <>
-              <span className="text-brand-yellow">Immediate wins:</span> walk away with your process streamlined and real-time input you can use now,
-            </>,
-            variant: "list-item",
-            align: "left",
-          },
-          {
-            type: "text",
-            value: <>
-              <span className="text-brand-yellow">Big-picture clarity:</span> spot inefficiencies and opportunities that were hiding in plain sight,
-            </>,
-            variant: "list-item",
-            align: "left",
-          },
-          {
-            type: "text",
-            value: <>
-              <span className="text-brand-yellow">Leverage tech smarter:</span> get practical ideas for how to use AI and automation in your workflows,
-            </>,
-            variant: "list-item",
-            align: "left",
-          },
-          {
-            type: "text",
-            value: <>
-              <span className="text-brand-yellow">A mindset shift</span> that helps you see what's possible — and how to get there faster,
-            </>,
-            variant: "list-item",
-            align: "left",
-          },
-        ],
-      },
-      {
-        type: "testimonial",
-        quote: "The retreat wasn't full of fluff or surface-level stuff. It was real people, sharing real challenges — and solving them together.",
-        name: "Max Dembow",
-        role: "Partner @ Kaizen Planning & Wealth Management",
-        avatar: "/Workshops/testimonials/max-dembow.jpg",
-        extraLarge: true,
-      },
-      {
-        type: "text",
-        value: "Who's In the Room?",
-        variant: "paragraph-heading",
-        underline: true,
-        align: "left",
-      },
-      {
-        type: "text",
-        value: "We keep it small and selective — so every seat is powerful. Past attendees include:",
-        variant: "body",
-        align: "left",
-      },
-      {
-        type: "list",
-        variant: "bulleted",
-        items: [
-          {
-            type: "text",
-            value: "NYT Bestselling Authors",
-            variant: "list-item",
-            align: "left",
-          },
-          {
-            type: "text",
-            value: "Fortune 500 Execs from Chipotle, Starbucks, Airbnb",
-            variant: "list-item",
-            align: "left",
-          },
-          {
-            type: "text",
-            value: "Top cybersecurity experts and elite hackers",
-            variant: "list-item",
-            align: "left",
-          },
-          {
-            type: "text",
-            value: "Leaders in AI, automation, and innovation",
-            variant: "list-item",
-            align: "left",
-          },
-          {
-            type: "text",
-            value: "Peak-performance coaches (including Novak Djokovic's coach)",
-            variant: "list-item",
-            align: "left",
-          },
-          {
-            type: "text",
-            value: "NFL Players",
-            variant: "list-item",
-            align: "left",
-          },
-          {
-            type: "text",
-            value: "Founders of 8- and 9-figure companies",
-            variant: "list-item",
-            align: "left",
-          },
-        ],
-      },
-      {
-        type: "text",
-        value: "Bottom Line:",
-        variant: "paragraph-heading",
-        underline: true,
-        align: "left",
-      },
-      {
-        type: "text",
-        value: <>This is for leaders who want to <u><strong>scale smarter</strong></u>.</>,
-        variant: "body",
-        align: "left",
-      },
-      {
-        type: "text",
-        value: "You'll leave with optimized systems, better tools, and sharper strategies, so you can make faster decisions, delegate more confidently, and get a higher return on your most valuable asset:",
-        variant: "body",
-        align: "left",
-      },
-      {
-        type: "text",
-        value: "TIME",
-        variant: "huge-body",
-        animatedUnderline: true,
-        align: "left",
-        color: {
-          type: "brand",
-          value: "yellow"
-        }
-      }
-    ],
-  },
-  {
-    id: "benefits",
-    background: {
-      type: "gradient",
-      value: [
-        {
-          type: "hex",
-          value: "#484c6c",
+            {
+              type: "brand",
+              value: "navy",
+            },
+            {
+              type: "brand",
+              value: "black",
+            },
+          ],
         },
-        {
+        "text-color": {
           type: "brand",
-          value: "navy",
+          value: "white",
         },
-        {
-          type: "brand",
-          value: "black",
-        },
-      ],
-    },
-    "text-color": {
-      type: "brand",
-      value: "white",
-    },
-    content: [
-      
-      {
-        type: "text",
-        value: "Sept 11-12, 2025",
-        variant: "subheading",
-      },
+        content: [
+          {
+            type: "text",
+            value: "Sept 11-12, 2025",
+            variant: "subheading",
+          },
           {
             type: "info-card",
             title: "Elevate Your Business & Legacy",
@@ -2669,7 +2668,6 @@ export const events = [
             },
           },
         
- 
           {
             type: "info-card",
             title: "🍽️ Curated Connections Over Dinner",
