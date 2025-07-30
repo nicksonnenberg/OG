@@ -17,7 +17,7 @@ export const events = [
           variant: "nav-button",
           action: "href",
           target:
-            "https://meetings.hubspot.com/jessica-carroll1/events?uuid=0eecf81e-3cf5-4347-8551-6607c1c0d6df",
+            "https://meetings.hubspot.com/jessica-carroll1/",
         },
       ],
     },
@@ -1002,7 +1002,7 @@ export const events = [
             text: "Apply Now",
             action: "href",
             target:
-              "https://meetings.hubspot.com/jessica-carroll1/events?uuid=0eecf81e-3cf5-4347-8551-6607c1c0d6df",
+              "https://meetings.hubspot.com/jessica-carroll1/",
             variant: "black",
             align: "center",
           },
@@ -1028,7 +1028,7 @@ export const events = [
           variant: "nav-button",
           action: "href",
           target:
-            "https://meetings.hubspot.com/jessica-carroll1/events?uuid=0eecf81e-3cf5-4347-8551-6607c1c0d6df",
+            "https://meetings.hubspot.com/jessica-carroll1/",
         },
       ],
     },
@@ -1109,7 +1109,7 @@ export const events = [
           text: "Apply Now",
           action: "href",
           target:
-            "https://meetings.hubspot.com/jessica-carroll1/events?uuid=0eecf81e-3cf5-4347-8551-6607c1c0d6df",
+            "https://meetings.hubspot.com/jessica-carroll1/",
           variant: "hero-button",
         },
       ],
@@ -2059,7 +2059,7 @@ export const events = [
             text: "Explore if you're a fit",
             action: "href",
             target:
-              "https://meetings.hubspot.com/jessica-carroll1/events?uuid=0eecf81e-3cf5-4347-8551-6607c1c0d6df",
+              "https://meetings.hubspot.com/jessica-carroll1/",
             variant: "white",
             align: "center",
           },
@@ -2085,7 +2085,7 @@ export const events = [
           variant: "nav-button",
           action: "href",
           target:
-            "https://meetings.hubspot.com/jessica-carroll1/events?uuid=0eecf81e-3cf5-4347-8551-6607c1c0d6df",
+            "https://meetings.hubspot.com/jessica-carroll1/",
         },
       ],
     },
@@ -2166,7 +2166,7 @@ export const events = [
           text: "Apply Now",
           action: "href",
           target:
-            "https://meetings.hubspot.com/jessica-carroll1/events?uuid=0eecf81e-3cf5-4347-8551-6607c1c0d6df",
+            "https://meetings.hubspot.com/jessica-carroll1",
           variant: "hero-button",
         },
       ],
@@ -3082,7 +3082,7 @@ export const events = [
             text: "Explore if you're a fit",
             action: "href",
             target:
-              "https://meetings.hubspot.com/jessica-carroll1/events?uuid=0eecf81e-3cf5-4347-8551-6607c1c0d6df",
+              "https://meetings.hubspot.com/jessica-carroll1/",
             variant: "white",
             align: "center",
           },
